@@ -7,7 +7,9 @@ Bu bölüm yazı dizilerini, çalma listelerini, mikro-blogging girdilerini, vb
 ## 📚 Tematik Yazı Dizileri
 
 ### [Açık Kaynak](./acik-kaynak/README.md)
-*(şimdilik burada bir şey bulunmuyor)*
+- [Türkiyedeki açık kaynak topluluğu](./acik-kaynak/turkiyedeki-acik-kaynak-toplulugu.md)
+- [Açık Kaynak Felsefesi](./acik-kaynak/acik-kaynak-felsefesi.md)
+- [Açık Kaynak İnisiyatifi](./acik-kaynak/acik-kaynak-inisiyatifi.md)
 
 ### [Internet](./internet/README.md)
 *(şimdilik burada bir şey bulunmuyor)*
