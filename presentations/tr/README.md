@@ -1,5 +1,4 @@
 ## Conference and Meetups
--------------------------
 
 ### JSTANBUL 2021 - 12 Jun 2021
 [Deno, While Celebrating Its 2. Birthday](https://speakerdeck.com/eser/2-yasina-girerken-deno) (in Turkish)

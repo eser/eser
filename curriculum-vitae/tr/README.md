@@ -1,5 +1,4 @@
 ## Experience
--------------
 
 ### Head of Engineering, Teknasyon
 
@@ -206,7 +205,6 @@ Celal Bayar University, CGPA: 78.77/100
 
 
 ## Certificates and Exams
--------------------------
 
 ### LEAD Execution Program - Personal Branding, Reputation and Perception Management Training for Leaders
 
