@@ -1,5 +1,32 @@
 ## Conference and Meetups
 
+### Bursa Bilisim Topluluğu - 27 Jul 2023
+[React Server Components Workshop](https://speakerdeck.com/eser/react-server-components) (in Turkish)
+
+### Teknasyon Meetup - 11 Jul 2023
+[React Server Components with Next 13](https://speakerdeck.com/eser/rsc-with-next-13) (in Turkish)
+
+### Upschool & YGA & Ford - 14 Mar 2023
+[Career in Frontend](https://speakerdeck.com/eser/frontend-kariyeri) (in Turkish)
+
+### İstanbul Coders - 18 Jan 2023
+[Deno Workshop 2023](https://speakerdeck.com/eser/deno-workshop-2023) (in Turkish)
+
+### GDG DevFest İzmir - 17 Dec 2022
+[Projection to JavaScript in 5 years from now (R2)](https://speakerdeck.com/eser/5-yil-sonraki-javascripte-bugunden-bakis-r2) (in Turkish)
+
+### GDG DevFest İstanbul - 11 Dec 2022
+[Projection to JavaScript in 5 years from now](https://speakerdeck.com/eser/5-yil-sonraki-javascripte-bugunden-bakis) (in Turkish)
+
+### Dev MultiGroup WebFree - 12 Nov 2022
+[The Pains of Change and Future Compatibility in the JavaScript Ecosystem - ES Modules](https://speakerdeck.com/eser/javascript-ekosistemindedegisim-sancilari-ve-gelecek-uyumlulugu-es-modules) (in Turkish)
+
+### Frontendship - 5 Nov 2022
+[What is Open Source? And how to get started?](https://speakerdeck.com/eser/acik-kaynak-nedir-nasil-baslariz) (in Turkish)
+
+### Bahçeşehir Üniversitesi - 4 Nov 2022
+[Career in Software](https://speakerdeck.com/eser/yazilimda-kariyer) (in Turkish)
+
 ### JSTANBUL 2021 - 12 Jun 2021
 [Deno, While Celebrating Its 2. Birthday](https://speakerdeck.com/eser/2-yasina-girerken-deno) (in Turkish)
 
