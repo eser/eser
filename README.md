@@ -17,18 +17,18 @@ src="https://img.shields.io/github/followers/eser?logo=github&style=for-the-badg
 Open Source, Developer Relations, Agile, DevOps, Software Craftsmanship, Product Engineering, Full-Stack Development, Web Development, Deno, JavaScript, TypeScript, etc.
 
 #### 🇬🇧 English content
-- [Updates](./updates/en/README.md) Updates, announcements, micro-blogging stuff, etc.
+- [Updates](./updates/en/README.md) Updates, announcements, etc.
 - [Products](./products/en/README.md) My products, Open source projects I contributed to, etc.
-- [Series](./series/en/README.md) My article series, playlists, etc.
+- [Series](./series/en/README.md) My article series, playlists, micro-blogging stuff, etc.
 - [Presentations](./presentations/en/README.md) My talks, presentations, etc.
 - [About me](./about-me/en/README.md) My technical skills, work experience, certifications, etc.
 
 #### 🇹🇷 Türkçe içerik
-- [Güncellemeler](./updates/tr/README.md) Güncellemeler, duyurular, mikroblogging şeysi, vs.
-- [Ürünler](./products/tr/README.md) Ürünlerim, Katkıda bulunduğum açık kaynak projeler, vs.
-- [Diziler](./series/tr/README.md) Yazı dizilerim, çalma listeleri, vs.
-- [Sunumlar](./presentations/tr/README.md) Konuşmalarım, sunumlarım, vs.
-- [Hakkımda](./about-me/tr/README.md) Teknik yeteneklerim, çalışma deneyimim, sertifikalarım, vs.
+- [Güncellemeler](./updates/tr/README.md) Güncellemeler, duyurular, vb.
+- [Ürünler](./products/tr/README.md) Ürünlerim, Katkıda bulunduğum açık kaynak projeler, vb.
+- [Diziler](./series/tr/README.md) Yazı dizilerim, çalma listeleri, mikro-blogging şeysi, vb.
+- [Sunumlar](./presentations/tr/README.md) Konuşmalarım, sunumlarım, vb.
+- [Hakkımda](./about-me/tr/README.md) Teknik yeteneklerim, çalışma deneyimim, sertifikalarım, vb.
 
 
 <br />

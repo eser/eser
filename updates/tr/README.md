@@ -1,3 +1,3 @@
-Bu bölüm kısa güncellemelerden oluşacak (mikro-blogging).
+Bu bölüm kısa güncellemeler ve duyurulardan oluşacak.
 
 [Ana sayfaya geri dön](../../README.md)
