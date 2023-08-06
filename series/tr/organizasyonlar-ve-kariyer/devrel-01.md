@@ -1,0 +1,70 @@
+# DevRel (Developer Relations) Yolculuğum: Nasıl başladım? (1/2)
+
+[Kariyerimin 21. yılı](https://eser.ozvataf.com/cv/)ndayım. Kendimi Türkiye sınırları içerisinde "büyürken evinde bilgisayar olan, bu sayede yazılım teknolojisinin gelişmesine tanıklık etmiş ilk neslin az sayıda üyesinden biri" olarak tanımlıyorum (bkz: [90'larda programlama öğrenmek](/90-larda-programlama-ogrenmek)). Dolayısıyla şartlar ilgim ve isteğimle birleşince benim için doğal bir sonuç oldu. İkinci tercihim Bilim Kurgu Yazarı olmaktı, ama o zaman işim daha zor olurdu.
+
+
+## Geçmiş
+
+#### Meslekteki İlk Yıllarım
+
+Yazılım geliştirici olarak kariyerimin başlangıcında, bugünkü "birden fazla insan tek ürün/projede çalışır" anlayışının tam tersine işleyen "bir insan birden fazla projenin tek çalışanıdır" düzeninde çalışıyorduk. Mesai arkadaşlarımın "presales" faaliyeti olarak müşterilere gitme, toplantılara girme faaliyetlerini hiç sevmiyordum hatta aynı ofisi paylaştığım insanlara "günaydın" demek konusunda bile isteksiz olan, dışarıdan bakıldığında bariz bir şekilde iletişim konularında sınıfta kalan biriydim.
+
+Zamanla aldığım sorumlulukları yerine getirmek, başarılı olmak, zorlukları yenmek motivasyonum beni değiştirdi. Artık yazılımla sunabileceğim "doğru iş çıktıları" kendi doğal sınırlarını bulduğunda insanlarla çözümler arıyordum. Doğru iletişim dili, müzakere etmek gibi yetenekler kazanarak bugünkü kişiliğime evrimleşmiş olsam da, ben o günlerdeki yaklaşımlarımı ve davranışlarımı hiç unutmadım.
+
+Sonrasında 12 yıllık bir süre zarfında bazen startup'larda, bazen yazılım evlerinde backend yazılımcı, senior full-stack yazılımcı, ekip yöneticisi, head of development gibi pozisyonlarla çalıştığım bir süreç oldu. Yüksek lisans için tekrar kolları sıvayıp bir yandan uzaktan danışmanlık verdiğim, bir yandan da araştırma görevlisi olduğum bir sürece girene dek bu tempo ile devam ettim.
+
+
+#### Koç Holding Çatısı Altında Çalışmak
+
+Yüksek lisansı bitirdikten sonra İzmir'de hayat kurmaya çalışırken, bir yandan İstanbul'daki müşterilerim için haftanın 4 günü seyahat halinde olan, hands-on danışmanlık veren bir hayat düzenindeydim. Yerleşik hayata geçiş hayaliyle "kurumsal hayat" maceram başladı.
+
+Koç Holding bünyesinde KoçSistem'de Arçelik, Tüpraş, Koç Üniversitesi v.b. iyi profilli firmaların projelerinde hizmet yöneticisi olarak çalıştım. Daha sonra yeni bir yapılanma içerisinde olan Setur'a transfer oldum. Yerleşik hayata geçme planları yaparken, aksine seyahatlerim arttı. Artık şirket genel merkezi yanısıra müşterilere de seyahatlerim vardı.
+
+Bu dönem aslında teknoloji sektörü de bir dönüşüm içerisindeydi. Startup'ların ivmesine yaklaşmaya çalışan kurumsallar, internetin hızlanması, bilginin daha kolay yayılması, mobilitenin artması gibi faktörlerle birlikte bulut bilişim, yönetilen hizmetler, dağıtık sistemler, yeni platformlara geçmeye istekliydiler. Ama önlerinde birçok engel vardı.
+
+En basitinden:
+- gantt chartları yok edip değişen taleplere çevik tepkiler verebilmek,
+- ürün ekipleri oluşturarak knowhow'ı tutmak, optimal çözümleri tartışıp uygulamak,
+- .NET gibi monolitik yapılardan .NET Core gibi modüler yapılara geçiş,
+- CI/CD ile çalışmak, kesintisiz deployment'lar yapmak,
+- statik kod analizleri yapmak, güvenlik ve potansiyel zaafiyet raporları almak,
+- kütüphaneleri belirli package repository'lerde tutmak,
+- entegrasyon ve davranış testleri yazmak,
+- uptime'ı yüksek tutacak şekilde servis orkestrasyonu yapmak,
+- tasarım dili oluşturup UX tasarlamak,
+- SVN/TFS gibi yapılar yerine Git gibi distributed source control yapıları kullanmak,
+
+v.b. hedefler vardı. Ama buralara nasıl varılabilirdi?
+
+Kurumsaldaki hayatım öncesinde danışmanlık verirken benim alışkın olduğum bu yapılar, kurumsaldaki dünyanın pratik etmediği disiplinler içeriyordu. Aynı zamanda kişilerin alışkanlıkları yıkarak sıfır noktalarına inmeye cesaretleri veya antremanları olmadığı için kurumsal dünyada yıkılamaz birçok sabit vardı.
+
+Pandemi'ye kadar süren uzun bir maraton sonrasında, her zaman önümü açan yöneticilerimin de desteğiyle, son geldiğimiz nokta flat bir organizasyonda bana bağlı 9 agile ürün ekibinin multi-disipliner (ux, qa, fe, be, analiz), polyglot (birden fazla programlama dili ile) ve otonom çıktılar verdiği, kubernetes'de kendi servislerini yönettikleri bir noktaya gelmiştik.
+
+Bu süreç içerisinde zamanımı %20 bilgisayar başında, %20 ekiple birlikte olmak için İzmir-İstanbul arası yolda, %60 ise insanlarla toplantı odalarında geçirdim. Edindiğim know-how'lar çok işime yaradı.
+
+İnsanları bürokratik, eskimiş, angarya-dolu bir yapıdan kurtarmış olup mesleki anlamda yazılım mühendisliğinin modern doğrularına yaklaştırmış olmanın manevi tatminini bolca yaşadığım bir dönemdi. O dönem uyguladığım iletişimde de başarılı olduğumu, kötü bir yönetici olmadığımı, halen o dönem çalıştığım arkadaşlarımla halen temasta/paylaşımda olmamdan anlayabiliyorum.
+
+
+## DevRel Alanında Çalışmak
+
+#### DevRel Danışmanlığı
+
+Yukarıda seyahatsiz, yerleşik bir düzen arzuluyordum yazmıştım. Ama ne istediğime dikkat etmeliymişim. Pandemi'den sonra ekiple birlikte olmak için İzmir-İstanbul arası seyahat şansım kalmamıştı. Hatta Setur gibi ana işi turizm olan bir firmanın hem rezervasyonlarını iade etmesi, hem de pandemi koşullarıyla tekrar ne zaman hareketleneceğinin belli olmaması durumu bizi derinden sarstı. Belirsizlik nedeniyle yatırım yapamaz hale geldik ve elimizdeki yetenekli kadroyu yavaş yavaş sektörde iyi teklifle gelen diğer firmalara kaybetmeye başladık.
+
+Çok iyi scale-up ettiğimiz bir dönemin ardından, istemsiz lay-off yaşadığımız bir döneme girmiştik. Bir önlem alamayacağımızla barıştığımız noktada da ben de CIO'muzla konuşarak, dövizle gelen yurt dışı tekliflerini değerlendirip danışmanlık hayatıma geri dönmeye karar verdim.
+
+Danışmanlığa geri döndüm, şirketleştim. Hali hazırdaki hands-on development işlerimi paylaşmak için beraber çalıştığım arkadaşlar olmaya başladı. Vergi mükellefliği ve işverenlik derken kurmuş olduğum "Açık Yazılım Ltd. Şti."nin sektörde olmayan, değerli bir alanda müşterilerine nasıl bir "danışmanlık ürünü" sunabileceğine kafa yormaya başladım.
+
+Hands-on programlama hizmeti vermek "fark yaratan" bir hizmet olmayacaktı. Ekiplere Software Craftsmanship'lerini ve çevikliklerini arttıracak şekilde koçluk sağlayabiliyordum, ürün ekiplerinin kurulması ve DevOps pratiklerinin benimsenmesi konusunda da... Ancak bunlar halihazırda organizasyonel koçluk veren birçok firma tarafından sağlanıyordu, dolayısıyla yine başkalarının hali hazırda verdiği bir hizmetten bahsediyor olacaktık.
+
+Sherlock hikayelerinde geçen ünlü bir söz vardır: "İmkansızın gerçekleşme ihtimalini elediğinizde, olasılıklardan geriye kalan ne kadar imkansız olursa olsun, gerçeğin kendisi olmalıdır".
+
+Ben de benzer bir eleme yapıp yöneticilik günlerimde sırtlandığım konular arasında hali hazırda sektörde fark yaratacak kadar eşsiz verebileceğim hizmetleri sıraladım: Developer Experience, Employee Experience, Talent Acquisition, Community Management, Engineering Success, Tech Branding, Open Source gibi konular ortaya çıktı.
+
+Elbette ki yüksek lisans zehirlenmesi olan "literatür taraması"nı gerçekleşip daha önce de birkaç kez duyduğum ama derinlemesine araştırmadığım DevRel, yani "Developer Relations" kavramına denk geldim. Okudukça konu ile ilgili bilgileniyor, ilk düşündüğüm gibi Developer Advocacy kadar sınırlı olmayan hatta Tech Marketing'den de geniş bir alan olduğunu fark ediyordum.
+
+Potansiyel müşterim olabilecek şirketlere DevRel hakkında sunumlar hazırlamaya ve sunmaya başladım. Artık verdiğim danışmanlığı DevRel danışmanlığı olarak isimlendiriyordum ve hatta bir gece pek değerli Furkan Kılıç ile yaptığımız geliştirici odaklı spaces yayınlarından birini kapatırken "DevRel diye bir disiplin var, ülkemize daha uğramadı ancak bir gerçek, ileride bir programda bunu da konuşalım" demiştim.
+
+DevRel danışmanlığı için 3 firma ile bu esasta görüşmeler halindeydim ki; hali hazırda danışmanlık verdiğim Getir, agresif bir işe alım hedefi olduğunu, teknoloji kadrosunu global'de 1000 kişiye genişletmeyi planladıklarını ileterek benden bir çözüm beklediler. Elbette bu Getir büyüklüğünde "Getir'e dışarıdan destek verilerek" yapılabilecek bir sorumluluk değildi; ben de bu disiplini ülke sınırlarında ilk kez uygulayacak olma motivasyonuyla hiçbir detayla ilgilenmeden Getir'in "DevRel Director"u olmayı kabul ettim.
+
+Yazının devamı için: [DevRel (Developer Relations) Yolculuğum: DevRel Director Olmak](./devrel-02.md)
