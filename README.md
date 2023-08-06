@@ -6,19 +6,38 @@ src="https://img.shields.io/twitter/follow/eser?logo=twitter&style=for-the-badge
 src="https://img.shields.io/github/followers/eser?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 
-Here are some details about me and my profile on GitHub:
+## ✨ Highlights
 
-- 🫂 I'm the Founder of [açık yazılım](https://acikyazilim.com)
-- 🫂 Crew leader of [atilgan.io](https://atilgan.io)
-- ~~ℹ️ My technical skills, work experience, certifications can be found at [eser.ozvataf.com](https://eser.ozvataf.com)~~
-- ~~✍️ I'm blogging at [eser.dev](https://eser.dev)~~
-- 🐦 I'm tweeting at [twitter.com/eser](https://x.com/eser)
-- 🎬 I'm streaming at [eser.live](https://eser.live)
-- 🔭 I’m currently working on [hex](https://github.com/eser/hex), [hex-service](https://github.com/eser/hex-service), [temporal-parse](https://github.com/eser/temporal-parse), and [fetchp](https://github.com/eser/fetchp).
-- 💬 Ask me about: Open Source, Developer Relations, Agile, DevOps, Software Craftsmanship, Product Engineering, Full-Stack Development, Web Development, Deno, JavaScript, TypeScript, etc.
-- 📫 How to reach me: [superpeer.com/eser](https://superpeer.com/eser)
+- 🫂 ~~Founder of [açık yazılım](https://github.com/acikyazilim)~~ (WIP)
+- 🫂 ~~Crew Leader of [atilgan.io](https://atilgan.io)~~ (WIP)
+- 🐦 Tweeting at [x.com/eser](https://x.com/eser)
+- 🎬 Streaming at [eser.live](https://eser.live)
+- 📫 How to reach me: [twitter.com/eser](https://twitter.com/eser)
+
+
+## 💬 Ask me about
+Open Source, Developer Relations, Agile, DevOps, Software Craftsmanship, Product Engineering, Full-Stack Development, Web Development, Deno, JavaScript, TypeScript, etc.
+
+
+## ℹ️ Sections
+
+🇬🇧 English:
+- [Updates](./updates/en/README.md) Updates, announcements, micro-blogging stuff, etc.
+- [Products](./products/en/README.md) My products, Open source projects I contributed to, etc.
+- [Series](./series/en/README.md) My article series, playlists, etc.
+- [Presentations](./presentations/en/README.md) My talks, presentations, etc.
+- [About me](./about-me/en/README.md) My technical skills, work experience, certifications, etc.
+
+🇹🇷 Turkish:
+- [Güncellemeler](./updates/tr/README.md) Güncellemeler, duyurular, mikroblogging şeysi, vs.
+- [Ürünler](./products/tr/README.md) Ürünlerim, Katkıda bulunduğum açık kaynak projeler, vs.
+- [Diziler](./series/tr/README.md) Yazı dizilerim, çalma listeleri, vs.
+- [Sunumlar](./presentations/tr/README.md) Konuşmalarım, sunumlarım, vs.
+- [Hakkımda](./about-me/tr/README.md) Teknik yeteneklerim, çalışma deneyimim, sertifikalarım, vs.
+
+
 <br />
 <br />
 <p>
-  <a href="http://www.github.com/eser"><img src="https://github-readme-stats.vercel.app/api?username=eser&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="eser's GitHub stats" /></a>
+  <a href="http://www.github.com/eser"><img src="https://github-readme-stats.vercel.app/api?username=eser&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Eser's GitHub stats" /></a>
 </p>
