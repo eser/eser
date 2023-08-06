@@ -1,6 +1,6 @@
 Bu bölümde, ürünlerim ve katkıda bulunduğum açık kaynak projeler hakkında bilgi alabilirsiniz.
 
-## 📦 Projects
+## 📦 Projeler
 - [cool lime](https://github.com/eser/coollime)
 - [hex](https://github.com/eser/hex)
 - [hex-service](https://github.com/eser/hex-service)

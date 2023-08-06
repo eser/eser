@@ -8,8 +8,8 @@ src="https://img.shields.io/github/followers/eser?logo=github&style=for-the-badg
 
 ## ✨ Highlights
 
-- 🫂 ~~Founder of [açık yazılım](https://github.com/acikyazilim)~~ (WIP)
-- 🫂 ~~Crew Leader of [atilgan.io](https://atilgan.io)~~ (WIP)
+- 💭 Founder of ~~[açık yazılım](https://github.com/acikyazilim)~~ (WIP)
+- 🫂 Crew Leader of ~~[atilgan.io](https://atilgan.io)~~ (WIP)
 - 🐦 Tweeting at [x.com/eser](https://x.com/eser)
 - 🎬 Streaming at [eser.live](https://eser.live)
 - 📫 How to reach me: [twitter.com/eser](https://twitter.com/eser)
