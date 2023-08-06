@@ -13,8 +13,12 @@ Bu bölüm yazı dizilerini, çalma listelerini, mikro-blogging girdilerini, vb
 - [Türkiyedeki açık kaynak topluluğu](./acik-kaynak/20161211-turkiyedeki-acik-kaynak-toplulugu.md)
 - [Açık Kaynak Felsefesi](./acik-kaynak/20160330-acik-kaynak-felsefesi.md)
 
-### [Internet](./internet/README.md)
-*(şimdilik burada bir şey bulunmuyor)*
+### [Internet ve Teknoloji](./internet-ve-teknoloji/README.md)
+- [Yarını okuyabilir miyiz?](./internet-ve-teknoloji/20161127-yarini-okuyabilir-miyiz.md)
+- [İçerik sahipliğine dair yasal eksiklikler](./internet-ve-teknoloji/20141122-icerik-sahipligine-dair-yasal-eksiklikler.md)
+- [Bilgisayarlı Demokrasi](./internet-ve-teknoloji/20130809-bilgisayarli-demokrasi.md)
+- [Cloud computing’de son kullanıcı açısından gizlilik](./internet-ve-teknoloji/20111128-cloud-computingde-son-kullanici-acisindan-gizlilik.md)
+- [50 yıl içinde tükenecekler](./internet-ve-teknoloji/20090930-50-yil-icinde-tukenecekler.md)
 
 ### [Organizasyonlar ve Kariyer](./organizasyonlar-ve-kariyer/README.md)
 - [Mentorluk ve Koçluk](./organizasyonlar-ve-kariyer/20221009-mentorluk-ve-kocluk.md)
@@ -39,6 +43,9 @@ Bu bölüm yazı dizilerini, çalma listelerini, mikro-blogging girdilerini, vb
 - [Windows Komut Satırı için kullanılabilecek güçlü araçlar](./yazilim-araclari/20160907-windows-komut-satiri-icin-kullanilabilecek-guclu-araclar.md)
 - [Microsoft’un yarı vizyonu üzerinden WebComponents ve SPA](./yazilim-araclari/20160610-microsoftun-yari-vizyonu-uzerinden-webcomponents-ve-spa.md)
 - [Microsoft’un güçlü komut satırı — Perde 2](./yazilim-araclari/20160330-microsoftun-guclu-komut-satiri-perde-2.md)
+- [90’larda programlama öğrenmek](./yazilim-araclari/20160221-90larda-programlama-ogrenmek.md)
+- [JavaScript’in backend geleceği](./yazilim-araclari/20160221-javascriptin-backend-gelecegi.md)
+- [PHP neden zamanın ruhunu yansıtmıyor?](./yazilim-araclari/20151204-php-neden-zamanin-ruhunu-yansitmiyor.md)
 - [Microsoft’a güçlü bir komut satırı için açık mektup](./yazilim-araclari/20150103-microsofta-guclu-bir-komut-satiri-icin-acik-mektup.md)
 - [Eksik parça: Data tanımlama](./yazilim-araclari/20141219-eksik-parca-data-tanimlama.md)
 - [PHP SPL: PHP Standard Library](./yazilim-araclari/20141115-php-spl-standard-library.md)
