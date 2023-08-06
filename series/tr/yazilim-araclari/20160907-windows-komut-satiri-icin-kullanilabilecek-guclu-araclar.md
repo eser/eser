@@ -41,7 +41,7 @@ paketlerini chocolatey üzerinden indirebilirsiniz.
 
 **4\. DOSKey ile aliaslar ve diğer konfigurasyonlar**
 
-[https://gist.github.com/eserozvataf/e8eb6f8e7f57418a1775b2b68960a0a1](https://gist.github.com/eserozvataf/e8eb6f8e7f57418a1775b2b68960a0a1)
+[https://gist.github.com/eser/e8eb6f8e7f57418a1775b2b68960a0a1](https://gist.github.com/eser/e8eb6f8e7f57418a1775b2b68960a0a1)
 
 MS-DOS’un 5.0 sürümüyle hayatımıza giren DOSKey aslında komut satırı için bir makro aracı. Halen günümüzde de Windows komut satırında yer aldığı için kendisini bash’da yer alan `alias` komutunun bir benzeri işlevle kullanıyorum. Bu sayede evde kullandığım macOS'dan işyerinde kullandığım Windows'a geçtiğim anda komut satırına `ls` yazdıktan sonra hatamı `dir` yazarak düzeltmek zorunda kalmıyor, sistemler arasındaki farkı minimize edebiliyorum.
 

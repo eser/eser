@@ -1,6 +1,6 @@
 # React’ın Vizyonu ve Hooks
 
-Uzun bir aradan sonra tekrardan blog yazmaya başladım. Bu esnada geçen süreye KoçSistem’den ayrılarak Setur’a geçişimi, birçok yeni açık kaynak projeyi, [7 farklı organizasyonda konuşma](https://eser.ozvataf.com/speaking/)yı ve bir de yüksek lisans tezini sığdırabilmişim.
+Uzun bir aradan sonra tekrardan blog yazmaya başladım. Bu esnada geçen süreye KoçSistem’den ayrılarak Setur’a geçişimi, birçok yeni açık kaynak projeyi, [7 farklı organizasyonda konuşma](../../../presentations/tr/README.md)yı ve bir de yüksek lisans tezini sığdırabilmişim.
 
 Genel olarak daha soft yetenekler, yazılım ürünleri, mimari, takım dinamikleri ve pratikler üzerine yazmayı seviyorum. Bu nedenle geliştirici perspektifinden çok daha farklı bir blog içeriğim olduğunu düşünüyorum. Ancak geçenlerde twitter üzerinde geliştirici perspektifiyle yapmış olduğum bir React eleştirisini net olarak ifade edebileceğim en uygun mecra da burası.
 
@@ -48,9 +48,9 @@ Fakat günün sonunda React Hooks ile yazılan yapıda,
 
 bir kod tabanı vaad ediyor.
 
-React Hooks ile yazılmış bir örnek için, [kişisel web sitemin ana sayfasının kodu](https://github.com/eserozvataf/eser.ozvataf.com/blob/development/src/app/pages/frontpage/index.tsx)nu inceleyebilirsiniz.
+React Hooks ile yazılmış bir örnek için, [kişisel web sitemin ana sayfasının kodu](https://github.com/eser/eser.ozvataf.com/blob/archived/old-site/src/app/pages/frontpage/index.tsx)nu inceleyebilirsiniz.
 
-Son olarak birkaç saat önce Armağan Amcalar ve Fatih Kadir Akın ile Kod Analizi’nin ilk konuğu oldum. Youtube üzerinde canlı yayında [Evangelist](https://github.com/eserozvataf/evangelist) isimli açık kaynak projemi ellerinde küreklerle gömdüler. Daha sonra farklı bir proje ve soru/yanıt ile devam ettik. Hem tarihe not olması, hem de Kod Analizi’nin kitlelere ulaşması için buraya eklemek istedim.
+Son olarak birkaç saat önce Armağan Amcalar ve Fatih Kadir Akın ile Kod Analizi’nin ilk konuğu oldum. YouTube üzerinde canlı yayında [Evangelist](https://github.com/eser/evangelist) isimli açık kaynak projemi ellerinde küreklerle gömdüler. Daha sonra farklı bir proje ve soru/yanıt ile devam ettik. Hem tarihe not olması, hem de Kod Analizi’nin kitlelere ulaşması için buraya eklemek istedim.
 
 %[https://www.youtube.com/watch?v=e-1aIc93QXg&list=PLWLiJPAYmgZAtN-trvpEpKysVL2LKMcO6&index=1]
 

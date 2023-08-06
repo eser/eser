@@ -1,4 +1,4 @@
-Yazının ilk bölümü olan [Uzaktan Çalışma Deneyimim — İşverenler ve İş Arkadaşları (1/2)](./uzaktan-calisma-01.md)nda tam bir “kişisel weblog” hikayesi sunarak kendi uzaktan çalışma deneyimim ne zaman gerçekleşti, neler oldu ve nasıl sonuçlandı üzerinden konuyu aktarmaya çalıştım.
+Yazının ilk bölümü olan [Uzaktan Çalışma Deneyimim — İşverenler ve İş Arkadaşları (1/2)](./20161010-uzaktan-calisma-01.md)nda tam bir “kişisel weblog” hikayesi sunarak kendi uzaktan çalışma deneyimim ne zaman gerçekleşti, neler oldu ve nasıl sonuçlandı üzerinden konuyu aktarmaya çalıştım.
 
 Önceki yazının okuyucu açısından pek ortak nokta bulunmadığı sürece okuması sıkıcı bir yazı olduğuna katılıyorum. Neyse ki bu yazıda ne zaman, neler ve nasıl oldu sorularının dikte ettiği hikaye kısmından sıyrılarak direkt olarak deneyimin kendisine odaklanacağım.
 

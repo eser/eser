@@ -28,7 +28,7 @@ Benim gibi 2002'de mezun olmuş her meslek liselinin üniversite kapısında kar
 
 Bazen aracı olan bir yüklenici, bazense direkt müşteri ile çalıştım. Buradan çıkarttığım sonuç işin kendisi kadar iletişimin de hassasiyetle yönetilmesi gerektiği, iki tarafın da beklentilerinin “ne kadar detaylı olarak belirlendiği”nin de bu iletişimde kilit rol oynadığı oldu.
 
-Daha önce [Hayal kırıklığına uğramamak için sorulması gerekenler](http://eser.ozvataf.com/hayal-kirikligina-ugramamak-icin-sorulmasi-gerekenler/) başlıklı yazımda tarafların kendilerine sorması gereken soruların biraz kenarından geçmiştim. Konuyu fazla da dağıtmadan ne kastettiğimi açıklamak için beklentiler üzerinden müşteri ile ilişkimizi ele alalım:
+Daha önce [Hayal kırıklığına uğramamak için sorulması gerekenler](./20160221-hayal-kirikligina-ugramamak-icin-sorgulanmasi-gerekenler.md) başlıklı yazımda tarafların kendilerine sorması gereken soruların biraz kenarından geçmiştim. Konuyu fazla da dağıtmadan ne kastettiğimi açıklamak için beklentiler üzerinden müşteri ile ilişkimizi ele alalım:
 
 *   Müşteriniz verdiğiniz hizmetin kapsamını biliyor mu, bunu izah edebildiniz mi? (Sizin hatanız)
 *   Siz net olarak anlaşmada yapılacak işin kapsamını belirtmenize rağmen müşteriniz bunu okumayarak, ayağı yere basmamaya devam mı ediyor? (Müşterinin hatası)
@@ -37,4 +37,4 @@ Siz müşterinize “size talep ettiğiniz doğrultuda doğru içerik sağladı�
 
 Zamanla müşterileri kategorize etmeyi ve gerekirse kabul etmemeyi öğrenmek bu tarz bir çalışma modelinde önem arz ediyor.
 
-Yazının devamını [Uzaktan Çalışma Deneyimim — Kişisel Organizasyon](./uzaktan-calisma-02.md) başlığı ile bulabilirsiniz.
+Yazının devamını [Uzaktan Çalışma Deneyimim — Kişisel Organizasyon](./20161012-uzaktan-calisma-02.md) başlığı ile bulabilirsiniz.

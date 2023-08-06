@@ -23,17 +23,17 @@ Aynı başlıktaki konularla ilgili farklı konuşmacılar oluşmaya başladığ
 
 Yine aynı kitleye seslenen aynı şehirdeki organizasyonlara aynı konu ile gitmemeye çalışıyorum. Bir örnek olarak Frontend İstanbul’da TypeScript anlattıysam ve jstanbul’da TypeScript’i tekrar anlatma şansım olursa; ilk olarak bakacağım şey katılımcıların aynı olup olmadığı olacaktır. Aynı kitleye birden fazla kez aynı şeyi aktarmanın bir yararı bulunmuyor. Bu nedenle üniversitelerin lokal öğrenci etkinliklerine daha fazla açığım bu dönemde.  
   
-Dolayısıyla insanlarla tanışmak, etkinliklerin heyecanlarını paylaşmak ve sürdürülebilirliklerini desteklemek için 2019'da da konuşma davetlerine yanıt vereceğim ancak bunun için Twitch’de etkin olacağım zamandan çalmak istemiyorum.
+Dolayısıyla insanlarla tanışmak, etkinliklerin heyecanlarını paylaşmak ve sürdürülebilirliklerini desteklemek için 2019'da da konuşma davetlerine yanıt vereceğim ancak bunun için YouTube’de etkin olacağım zamandan çalmak istemiyorum.
 
 **Hareket Planı:** Belirlediğim sınırlamalar dahilinde etkinliklerde konuşmalara devam edebilirim.
 
-### Twitch Yayıncılığı
+### YouTube Yayıncılığı
 
-Geçtiğimiz sene başladığım, yatırım yaptığım, ufaktan kitle oluşturmaya başladığım ve daha da büyüteceğim gönüllü çalışma alanım aslında Twitch.
+Geçtiğimiz sene başladığım, yatırım yaptığım, ufaktan kitle oluşturmaya başladığım ve daha da büyüteceğim gönüllü çalışma alanım aslında YouTube.
 
-Ben başlarken daha ıssızdı, ancak Twitch halen yazılım içeriği anlamında potansiyeline ulaşamamış bir platform. Platformda yazılımla ilgili içerik aradığınızda “Creative” başlığı altında live coding dışında bir içerik bulamıyorsunuz. Ancak önümüzdeki dönemde bunun değişeceğine inanıyorum. Kendimi de bu değişimin öncülerinden biri olarak konumlandırmaya çalışıyorum. Bu nedenle Twitch benim için çok kıymetli bir gönüllülük alanı.  
+Ben başlarken daha ıssızdı, ancak canlı yayın streamleri halen yazılım içeriği anlamında potansiyeline ulaşamadı. Twitch gibi platformda yazılımla ilgili içerik aradığınızda “Creative” başlığı altında live coding dışında bir içerik bulamıyorsunuz. Ancak önümüzdeki dönemde bunun değişeceğine inanıyorum. Kendimi de bu değişimin öncülerinden biri olarak konumlandırmaya çalışıyorum. Bu nedenle YouTube benim için çok kıymetli bir gönüllülük alanı.  
   
-Twitch için hareket planımı çıkarttım aslında. Platformda zaten oyun temelli twitch yayıncılığının pratikleri bulunuyor. Bunu yazılım için de kullanmak mümkün. Bilgisayarlarımızın başında kahvelerimizi yudumlarken,
+YouTube için hareket planımı çıkarttım aslında. Canlı yayınlarda zaten oyun temelli twitch yayıncılığının pratikleri literatüre kazandırılmış durumda. Bunu yazılım için de kullanmak mümkün. Bilgisayarlarımızın başında kahvelerimizi yudumlarken,
 
 *   yazılım ürünlerini unbox edelim,
 *   bir radyo/podcast yayınıymışçasına yazılım gündemini konuşalım,
@@ -41,9 +41,9 @@ Twitch için hareket planımı çıkarttım aslında. Platformda zaten oyun teme
 *   birlikte konferans kayıtlarını izleyelim,
 *   ve bir araya gelip networking oluşturalım,
 
-istiyorum. [http://twitch.tv/laroux](http://twitch.tv/laroux) üzerinden takip etmeye başlayıp siz de katılımcı olmaya başlayabilirsiniz. Twitch’de gerçekleşen geçmiş yayın içeriklerini de bir süre sonra oluşturduğum [YouTube Kanalı](https://youtube.com/EserOzvataf) üzerinden yayınlıyorum.
+istiyorum. [YouTube Kanalım](eser.live) üzerinden takip etmeye başlayıp siz de katılımcı olmaya başlayabilirsiniz.
 
-**Hareket Planı:** Twitch üzerine yatırıma devam.
+**Hareket Planı:** YouTube üzerine yatırıma devam.
 
 ### Evangelist Yaklaşım
 
@@ -63,13 +63,13 @@ Biraz daha geleneksel yazılım yaklaşımlarını gördüğümde, unix felsefes
 
 Benim için [acik-kaynak.org](http://acik-kaynak.org)‘un geliştirilmesi başlı başına bir “açık kaynak” proje oldu, bu projenin sahibi ben değilim fakat inisiyatifi başlatan bendim. Bu noktada konuyla ilgili iki çuvaldızım var, biri kendime. Benim için acik-kaynak.org‘un geliştirilmesi hep ertelendi. Halen gerekli zamanı bulup geliştirmeye devam etmek istiyorum ancak bunu başaramıyorum. Diğer yandan ülkemizde dillendirildiği kadar açık kaynak sevdalısı olmadığını iletilen proje sayılarından görmüş bulunuyorum.
 
-[Tassle](https://github.com/eserozvataf/tassle) benim uzun yıllar üzerinde çalıştığım bir .NET Standard component paketi, .NET Core’un çıkışı ile birlikte ciddi refactorler geçirdi. Ancak halen istediğim olgunluğa kavuşamadı.
+[Tassle](https://github.com/eser/tassle) benim uzun yıllar üzerinde çalıştığım bir .NET Standard component paketi, .NET Core’un çıkışı ile birlikte ciddi refactorler geçirdi. Ancak halen istediğim olgunluğa kavuşamadı.
 
-[Ponyfills](https://github.com/eserozvataf/ponyfills), [Immunity](https://github.com/eserozvataf/immunity), [Evangelist](https://github.com/eserozvataf/evangelist), [Enthusiast](https://github.com/eserozvataf/enthusiast), [ServiceManager](https://github.com/eserozvataf/servicemanager), [CoFounder](https://github.com/eserozvataf/cofounder), [Senior](https://github.com/eserozvataf/senior), [Maester](https://github.com/eserozvataf/maester), [Consultant](https://github.com/eserozvataf/consultant), [JsMake](https://github.com/eserozvataf/jsmake) gibi ufak tefek JavaScript toolchain olarak ifade edebileceğim projelerim üzerinde vakit buldukça çalışıyorum.
+[Ponyfills](https://github.com/eser/ponyfills), [Immunity](https://github.com/eser/immunity), [Evangelist](https://github.com/eser/evangelist), [Enthusiast](https://github.com/eser/enthusiast), [ServiceManager](https://github.com/eser/servicemanager), [CoFounder](https://github.com/eser/cofounder), [Senior](https://github.com/eser/senior), [Maester](https://github.com/eser/maester), [Consultant](https://github.com/eser/consultant), [JsMake](https://github.com/eser/jsmake) gibi ufak tefek JavaScript toolchain olarak ifade edebileceğim projelerim üzerinde vakit buldukça çalışıyorum.
 
-Diğer yandan [Darty](https://github.com/eserozvataf/darty), [Create-Darty-App](https://github.com/eserozvataf/create-darty-app), [Darty React App](https://github.com/eserozvataf/darty-react-app), [Darty React Hooks App](https://github.com/eserozvataf/darty-react-hooks-app) gibi kod tabanı oluşturma aracı projem devam etmekte. Aslında ts-spa-boilerplate isimli frontend geliştirme boilerplate’imin create-react-app pratiklerinin çok benimsenmesi sonrasında evrimleştiği nokta olarak ifade edebiliriz “Darty”yi.
+Diğer yandan [Darty](https://github.com/eser/darty), [Create-Darty-App](https://github.com/eser/create-darty-app), [Darty React App](https://github.com/eser/darty-react-app), [Darty React Hooks App](https://github.com/eser/darty-react-hooks-app) gibi kod tabanı oluşturma aracı projem devam etmekte. Aslında ts-spa-boilerplate isimli frontend geliştirme boilerplate’imin create-react-app pratiklerinin çok benimsenmesi sonrasında evrimleştiği nokta olarak ifade edebiliriz “Darty”yi.
 
-Tabii ki bunlar aktif maintain ettiğim ve son dönemde ilgilendiklerim. Daha sayamadığım ve GitHub üzerinde bulunan 103 adet açık kaynak repository’m bulunuyor, bunlar arasında oyun geliştirme alanında sayılabilecek [Quake 3 Mod](https://github.com/eserozvataf/q3now)’undan tutun, C++’da yazdığım AST üzerinde çalışan parserlara veya Solidity üzerinde oluşturduğum Etherium SmartContract’lara kadar birçok farklı proje bulunuyor. Tek kişi bunları maalesef çok etkin maintain edemiyorum. Bazılarını seçip bu projelerin geliştirmelerine daha konsantre devam etmem gerekecek.
+Tabii ki bunlar aktif maintain ettiğim ve son dönemde ilgilendiklerim. Daha sayamadığım ve GitHub üzerinde bulunan 103 adet açık kaynak repository’m bulunuyor, bunlar arasında oyun geliştirme alanında sayılabilecek [Quake 3 Mod](https://github.com/eser/q3now)’undan tutun, C++’da yazdığım AST üzerinde çalışan parserlara veya Solidity üzerinde oluşturduğum Etherium SmartContract’lara kadar birçok farklı proje bulunuyor. Tek kişi bunları maalesef çok etkin maintain edemiyorum. Bazılarını seçip bu projelerin geliştirmelerine daha konsantre devam etmem gerekecek.
 
 **Hareket Planı:** Üzülerek bir sınırlama getirmek, daha konsantre gitmek gerekiyor.
 

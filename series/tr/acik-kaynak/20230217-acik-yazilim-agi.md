@@ -116,7 +116,7 @@ Plan listesi olarak somutlaştırmak gerekirse,
 
 * Açık Yazılım Ağı hızlı başladı. Kendi adıma, bunun bundan sonra daha sürdürülebilir olması için çalışacağım
     
-* Ekipten ikna edebildiğim arkadaşları ara ara [YouTube kanalım](https://youtube.com/EserOzvataf)'a çağırıp Açık Yazılım Ağı için online hackathon'lar düzenleyeceğim
+* Ekipten ikna edebildiğim arkadaşları ara ara [YouTube kanalım](https://eser.live)'a çağırıp Açık Yazılım Ağı için online hackathon'lar düzenleyeceğim
     
 * Bazı kurumlardan destek alarak 2-3 ayda bir fiziksel Açık Yazılım Ağı Hackathonları düzenleyip odak projeler çıkartarak, yalnızca afet anlarında değil, sürekli bir açık kaynak bilinci oluşmasını sağlayacağım (başarabilirsem)
     
@@ -178,7 +178,7 @@ Farkındaysanız destek için sosyal medyaya yönlendirdim. Çünkü somut bir p
 
 Şimdi iletişimi bir halka daha şeffaf, erişilebilir ve dışa dönük yapma zamanı.
 
-Yukarıda da bahsettim, buradaki eforlara dair hem geri bildirimler almak hem de daha net konuları aktarmak, hem işin başındaki insanlarla iletişimde bulunmak için kendi adıma Açık Yazılım Ağı ile ilgilendiğim süreçte [https://www.youtube.com/EserOzvataf](https://www.youtube.com/EserOzvataf) adresinde yayında olmaya çalışacağım. Eminim bu yayınlarda topluluktan birçok kişi bana katılacaktır, onların taraflarını dinleyip bir yandan da neler yapabiliriz birlikte konuşmuş olacağız.
+Yukarıda da bahsettim, buradaki eforlara dair hem geri bildirimler almak hem de daha net konuları aktarmak, hem işin başındaki insanlarla iletişimde bulunmak için kendi adıma Açık Yazılım Ağı ile ilgilendiğim süreçte [https://eser.live](https://eser.live) adresinde yayında olmaya çalışacağım. Eminim bu yayınlarda topluluktan birçok kişi bana katılacaktır, onların taraflarını dinleyip bir yandan da neler yapabiliriz birlikte konuşmuş olacağız.
 
 ## Kapanış ve kişisel öngörülerim
 
