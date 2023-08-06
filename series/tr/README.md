@@ -21,11 +21,16 @@ Bu bölüm yazı dizilerini, çalma listelerini, mikro-blogging girdilerini, vb
 ### [Üretkenlik](./uretkenlik/README.md)
 - [Öğrenme Yol Haritası (Bilhassa Junior ve Yazılımcılar İçin)](./uretkenlik/ogrenme-yol-haritasi.md)
 - [Öğrenmek için "o anı" beklemek](./uretkenlik/ogrenmek-icin-o-ani-beklemek.md)
+- [Hayal kırıklığına uğramamak için sorgulanması gerekenler](./uretkenlik/hayal-kirikligina-ugramamak-icin-sorgulanmasi-gerekenler.md)
+- [Tekerleği yeniden keşfetmek](./uretkenlik/tekerlegi-yeniden-kesfetmek.md)
+- [Üretmek ve Gönüllülük](./uretkenlik/uretmek-ve-gonulluluk.md)
+- [Gönüllü olduğum işlere dair planlama ve değerlendirme](./uretkenlik/gonullu-oldugum-islere-dair-planlama-ve-degerlendirme.md)
 - [Uzaktan Çalışma Deneyimim — İşverenler ve İş Arkadaşları (1/2)](./uretkenlik/uzaktan-calisma-01.md)
 - [Uzaktan Çalışma Deneyimim — Kişisel Organizasyon (2/2)](./uretkenlik/uzaktan-calisma-02.md)
 
 ### [Yazılım Mühendisliği](./yazilim-muhendisligi/README.md)
-*(şimdilik burada bir şey bulunmuyor)*
+- [Standartlar, guidelinelar ve best practiseler](./yazilim-muhendisligi/standartlar-guidelinelar-ve-best-practiseler.md)
+- [Teslimat bizim işimiz (mi?)](./yazilim-muhendisligi/teslimat-bizim-isimiz-mi.md)
 
 
 [Ana sayfaya geri dön](../../README.md)
