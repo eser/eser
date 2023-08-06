@@ -180,7 +180,6 @@ Jan 2001 - Aug 2002
 
 
 ## Education
-------------
 
 ### Master's Degree - Information and Communication Technologies in Education
 
