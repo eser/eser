@@ -5,6 +5,8 @@ src="https://img.shields.io/twitter/follow/eser?logo=twitter&style=for-the-badge
 /></a><a href="https://www.github.com/eser" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/eser?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
+#### ✨ Highlights
+
 - 💭 Founder of ~~[açık yazılım](https://github.com/acikyazilim)~~ (WIP)
 - 🫂 Crew Leader of ~~[atilgan.io](https://atilgan.io)~~ (WIP)
 - 🐦 Tweeting at [x.com/eser](https://x.com/eser)
@@ -14,17 +16,14 @@ src="https://img.shields.io/github/followers/eser?logo=github&style=for-the-badg
 #### 💬 Ask me about
 Open Source, Developer Relations, Agile, DevOps, Software Craftsmanship, Product Engineering, Full-Stack Development, Web Development, Deno, JavaScript, TypeScript, etc.
 
-
-## ℹ️ Sections
-
-#### 🇬🇧 English Content
+#### 🇬🇧 English content
 - [Updates](./updates/en/README.md) Updates, announcements, micro-blogging stuff, etc.
 - [Products](./products/en/README.md) My products, Open source projects I contributed to, etc.
 - [Series](./series/en/README.md) My article series, playlists, etc.
 - [Presentations](./presentations/en/README.md) My talks, presentations, etc.
 - [About me](./about-me/en/README.md) My technical skills, work experience, certifications, etc.
 
-#### 🇹🇷 Türkçe İçerik
+#### 🇹🇷 Türkçe içerik
 - [Güncellemeler](./updates/tr/README.md) Güncellemeler, duyurular, mikroblogging şeysi, vs.
 - [Ürünler](./products/tr/README.md) Ürünlerim, Katkıda bulunduğum açık kaynak projeler, vs.
 - [Diziler](./series/tr/README.md) Yazı dizilerim, çalma listeleri, vs.
