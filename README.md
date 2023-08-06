@@ -25,10 +25,7 @@ Open Source, Developer Relations, Agile, DevOps, Software Craftsmanship, Product
 
 #### 🇹🇷 Türkçe içerik
 - [Güncellemeler](./updates/tr/README.md) Güncellemeler, duyurular, vb.
-- [Ürünler](./products/tr/README.md) Ürünlerim, Katkıda bulunduğum açık kaynak projeler, vb.
-- [Diziler](./series/tr/README.md) Yazı dizilerim, çalma listeleri, mikro-blogging şeysi, vb.
-- [Sunumlar](./presentations/tr/README.md) Konuşmalarım, sunumlarım, vb.
-- [Özgeçmişim](./curriculum-vitae/tr/README.md) Teknik yeteneklerim, çalışma deneyimim, sertifikalarım, vb.
+- [Yazı Dizileri](./series/tr/README.md) Yazı dizilerim, çalma listeleri, mikro-blogging şeysi, vb.
 
 
 <br />
