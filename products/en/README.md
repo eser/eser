@@ -1,9 +1,17 @@
 In this section, you would get informed about my products and open source projects I contributed to.
 
+## ⭐ Products
+- [acik.io](https://github.com/eser/acik.io) *(not yet announced)*
+- [atilgan.io](https://github.com/eser/atilgan.io) *(not yet announced)*
+- [codename: food](https://github.com/eser/food) *(not yet announced)*
+- [cool lime](https://github.com/eser/cool-lime) *(not yet announced)*
+- [developer networks](https://github.com/eser/developer-networks) *(not yet announced)*
+- [eser.live](https://eser.live)
+- [olursam](https://github.com/eser/olursam) *(not yet announced)*
+
 ## 📦 Projects
 - [buildless-deno-react-ssr](https://github.com/eser/buildless-deno-react-ssr)
 - [design patterns](https://github.com/eser/design-patterns)
-- [developer networks](https://github.com/eser/developer-networks)
 - [fetchp](https://github.com/eser/fetchp)
 - [hex](https://github.com/eser/hex)
 - [hex-service](https://github.com/eser/hex-service)
@@ -11,13 +19,6 @@ In this section, you would get informed about my products and open source projec
 - [q3now](https://github.com/eser/q3now)
 - [temporal-parse](https://github.com/eser/temporal-parse)
 - [tr2utf8](https://github.com/eser/tr2utf8)
-
-## 📦 Projects Not Yet Announced
-- ~~[acik.io](https://github.com/eser/acik.io)~~
-- ~~[atilgan.io](https://github.com/eser/atilgan.io)~~
-- ~~[cool lime](https://github.com/eser/cool-lime)~~
-- ~~[food](https://github.com/eser/food)~~
-- ~~[olursam](https://github.com/eser/olursam)~~
 
 ## 📦 Archived Projects
 - [acikkaynak.github.io](https://github.com/eser/acikkaynak.github.io) *(archived)*

@@ -21,14 +21,14 @@ Open Source, Developer Relations, Agile, DevOps, Software Craftsmanship, Product
 - [Products](./products/en/README.md) My products, Open source projects I contributed to, etc.
 - [Series](./series/en/README.md) My article series, playlists, micro-blogging stuff, etc.
 - [Presentations](./presentations/en/README.md) My talks, presentations, etc.
-- [About me](./about-me/en/README.md) My technical skills, work experience, certifications, etc.
+- [Curriculum Vitae](./curriculum-vitae/en/README.md) My technical skills, work experience, certifications, etc.
 
 #### 🇹🇷 Türkçe içerik
 - [Güncellemeler](./updates/tr/README.md) Güncellemeler, duyurular, vb.
 - [Ürünler](./products/tr/README.md) Ürünlerim, Katkıda bulunduğum açık kaynak projeler, vb.
 - [Diziler](./series/tr/README.md) Yazı dizilerim, çalma listeleri, mikro-blogging şeysi, vb.
 - [Sunumlar](./presentations/tr/README.md) Konuşmalarım, sunumlarım, vb.
-- [Hakkımda](./about-me/tr/README.md) Teknik yeteneklerim, çalışma deneyimim, sertifikalarım, vb.
+- [Özgeçmişim](./curriculum-vitae/tr/README.md) Teknik yeteneklerim, çalışma deneyimim, sertifikalarım, vb.
 
 
 <br />

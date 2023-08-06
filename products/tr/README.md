@@ -1,9 +1,17 @@
 Bu bölümde, ürünlerim ve katkıda bulunduğum açık kaynak projeler hakkında bilgi alabilirsiniz.
 
+## ⭐ Ürünler
+- [acik.io](https://github.com/eser/acik.io) *(henüz duyurulmadı)*
+- [atilgan.io](https://github.com/eser/atilgan.io) *(henüz duyurulmadı)*
+- [codename: food](https://github.com/eser/food) *(henüz duyurulmadı)*
+- [cool lime](https://github.com/eser/cool-lime) *(henüz duyurulmadı)*
+- [developer networks](https://github.com/eser/developer-networks) *(henüz duyurulmadı)*
+- [eser.live](https://eser.live)
+- [olursam](https://github.com/eser/olursam) *(henüz duyurulmadı)*
+
 ## 📦 Projeler
 - [buildless-deno-react-ssr](https://github.com/eser/buildless-deno-react-ssr)
 - [design patterns](https://github.com/eser/design-patterns)
-- [developer networks](https://github.com/eser/developer-networks)
 - [fetchp](https://github.com/eser/fetchp)
 - [hex](https://github.com/eser/hex)
 - [hex-service](https://github.com/eser/hex-service)
@@ -11,13 +19,6 @@ Bu bölümde, ürünlerim ve katkıda bulunduğum açık kaynak projeler hakkın
 - [q3now](https://github.com/eser/q3now)
 - [temporal-parse](https://github.com/eser/temporal-parse)
 - [tr2utf8](https://github.com/eser/tr2utf8)
-
-## 📦 Henüz Duyurulmamış Projeler
-- ~~[acik.io](https://github.com/eser/acik.io)~~
-- ~~[atilgan.io](https://github.com/eser/atilgan.io)~~
-- ~~[cool lime](https://github.com/eser/cool-lime)~~
-- ~~[food](https://github.com/eser/food)~~
-- ~~[olursam](https://github.com/eser/olursam)~~
 
 ## 📦 Arşivlenmiş Projeler
 - [acikkaynak.github.io](https://github.com/eser/acikkaynak.github.io) *(arşiv)*
