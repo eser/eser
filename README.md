@@ -15,9 +15,8 @@ Here are some details about me and my profile on GitHub:
 - 🐦 I'm tweeting at [twitter.com/eser](https://x.com/eser)
 - 🎬 I'm streaming at [eser.live](https://eser.live)
 - 🔭 I’m currently working on [hex](https://github.com/eser/hex), [hex-service](https://github.com/eser/hex-service), [temporal-parse](https://github.com/eser/temporal-parse), and [fetchp](https://github.com/eser/fetchp).
-- 💬 Ask me about: Software Craftsmanship, DevOps, Full-Stack Development, Web Development, JavaScript, TypeScript
+- 💬 Ask me about: Open Source, Developer Relations, Agile, DevOps, Software Craftsmanship, Product Engineering, Full-Stack Development, Web Development, Deno, JavaScript, TypeScript, etc.
 - 📫 How to reach me: [superpeer.com/eser](https://superpeer.com/eser)
-
 <br />
 <br />
 <p>
