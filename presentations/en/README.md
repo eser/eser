@@ -3,7 +3,7 @@
 ### Bursa Bilisim Topluluğu - 27 Jul 2023
 [React Server Components Workshop](https://speakerdeck.com/eser/react-server-components) (in Turkish)
 
-### Teknasyon Meetup - 11 Jul 2023
+### Teknasyon Meetup 35 - 11 Jul 2023
 [React Server Components with Next 13](https://speakerdeck.com/eser/rsc-with-next-13) (in Turkish)
 
 ### Upschool & YGA & Ford - 14 Mar 2023
