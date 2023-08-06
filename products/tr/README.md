@@ -8,7 +8,7 @@ Bu bölümde, ürünlerim ve katkıda bulunduğum açık kaynak projeler hakkın
 - [hex](https://github.com/eser/hex)
 - [hex-service](https://github.com/eser/hex-service)
 - [one-dark-pro-monokai-darker](https://github.com/eser/vscode-one-dark-pro-monokai-darker)
-- [q3now](https://github.com/eser/q3now) *(arşiv)*
+- [q3now](https://github.com/eser/q3now)
 - [temporal-parse](https://github.com/eser/temporal-parse)
 - [tr2utf8](https://github.com/eser/tr2utf8)
 
