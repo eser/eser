@@ -7,6 +7,10 @@
 | Programming Language        | Literatür      | Programlama Dili            | 👍    |                    |
 | Code                        | Literatür      | Kod                         | 👍    |                    |
 | Coding                      | Literatür      | Kodlama                     | 👍    |                    |
+| Product                     | Literatür      | Ürün                        | 👍    |                    |
+| Engineer                    | Literatür      | Mühendis                    | 👍    |                    |
+| Developer                   | Literatür      | Geliştirici                 | 👍    |                    |
+| Team                        | Literatür      | Takım                       | 👍    |                    |
 | Source Code                 | Literatür      | Kaynak Kod                  | 👍    |                    |
 | Data                        | Literatür      | Veri                        | 👍    |                    |
 | Database                    | Literatür      | Veritabanı                  | 👍    |                    |
@@ -38,3 +42,4 @@
 | Commitment                  | Sosyal         | Taahhüt                     | 👍    |                    |
 | Process                     | Sosyal         | Süreç                       | 👍    |                    |
 | Task                        | Sosyal         | Görev                       | 👍    |                    |
+| Scope                       | Sosyal         | Kapsam                      | 👍    |                    |
