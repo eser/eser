@@ -23,11 +23,15 @@
 | Object                      | Programlama    | Nesne                       | 👍    |                    |
 | Object Oriented Programming | Programlama    | Nesne Yönelimli Programlama | 👍    |                    |
 | Class                       | Programlama    | Sınıf                       | 👍    |                    |
+| Abstract                    | Programlama    | Soyut                       | 🤔    |                    |
 | Instance                    | Programlama    | Örnek                       | 🤔    | Kopya              |
 | Method                      | Programlama    | Yöntem                      | 👍    |                    |
 | Source Control              |                | Kaynak Kontrol              | 🤔    |                    |
 | Resource                    |                | Kaynak                      | 👎    | Özkaynak           |
 | Extension                   |                | Uzantı                      | 👍    |                    |
+| Request                     |                | İstek                       | 👍    |                    |
+| Response                    |                | Yanıt                       | 👍    |                    |
+| Context                     |                | Bağlam                      | 👍    |                    |
 | Push                        | Kaynak Kontrol | İtme                        | 🤔    |                    |
 | Pull                        | Kaynak Kontrol | Çekme                       | 🤔    |                    |
 | Branch                      | Kaynak Kontrol | Dal                         | 🤔    |                    |
