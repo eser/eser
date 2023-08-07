@@ -17,15 +17,15 @@ src="https://img.shields.io/github/followers/eser?logo=github&style=for-the-badg
 Open Source, Developer Relations, Agile, DevOps, Software Craftsmanship, Product Engineering, Full-Stack Development, Web Development, Deno, JavaScript, TypeScript, etc.
 
 #### 🇬🇧 English content
-- [Updates](./updates/en/README.md) Updates, announcements, etc.
-- [Products](./products/en/README.md) My products, Open source projects I contributed to, etc.
-- [Series](./series/en/README.md) My article series, playlists, micro-blogging stuff, etc.
-- [Presentations](./presentations/en/README.md) My talks, presentations, etc.
 - [Curriculum Vitae](./curriculum-vitae/en/README.md) My technical skills, work experience, certifications, etc.
+- [Products](./products/en/README.md) My products, Open source projects I contributed to, etc.
+- [Presentations](./presentations/en/README.md) My talks, presentations, etc.
+- [Series](./series/en/README.md) My article series, playlists, micro-blogging stuff, etc.
+- [Updates](./updates/en/README.md) Updates, announcements, etc.
 
 #### 🇹🇷 Türkçe içerik
-- [Güncellemeler](./updates/tr/README.md) Güncellemeler, duyurular, vb.
 - [Yazı Dizileri](./series/tr/README.md) Yazı dizilerim, çalma listeleri, mikro-blogging şeysi, vb.
+- [Güncellemeler](./updates/tr/README.md) Güncellemeler, duyurular, vb.
 
 
 <br />
