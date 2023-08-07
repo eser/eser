@@ -7,26 +7,21 @@ src="https://img.shields.io/github/followers/eser?logo=github&style=for-the-badg
 
 #### ✨ Highlights
 
-- 💭 Founder of ~~[açık yazılım](https://github.com/acikyazilim)~~ (WIP)
-- 🫂 Crew Leader of ~~[atilgan.io](https://atilgan.io)~~ (WIP)
 - 🐦 Tweeting at [x.com/eser](https://x.com/eser)
 - 🎬 Streaming at [eser.live](https://eser.live)
-- 📫 How to reach me: [twitter.com/eser](https://twitter.com/eser)
 
-#### 💬 Ask me about
-Open Source, Developer Relations, Agile, DevOps, Software Craftsmanship, Product Engineering, Full-Stack Development, Web Development, Deno, JavaScript, TypeScript, etc.
+- 💬 Interests: Open Source, Engineering Management, DevRel, Agile, DevOps, Software Craftsmanship and Product Engineering
+- ⚙️ Stack: Deno, JavaScript, TypeScript, etc.
 
-- [Curriculum Vitae](./curriculum-vitae/en/README.md) My technical skills, work experience, certifications, etc.
-- [Products](./products/en/README.md) My products, Open source projects I contributed to, etc.
-- [Presentations](./presentations/en/README.md) My talks, presentations, etc.
+#### ✍️ Content
 
-#### 🇬🇧 English content
-- [Series](./series/en/README.md) My article series, playlists, micro-blogging stuff, etc.
-- [Updates](./updates/en/README.md) Updates, announcements, etc.
-
-#### 🇹🇷 Türkçe içerik
-- [Yazı Dizileri](./series/tr/README.md) Yazı dizilerim, çalma listeleri, mikro-blogging şeysi, vb.
-- [Güncellemeler](./updates/tr/README.md) Güncellemeler, duyurular, vb.
+- 🇬🇧 [Curriculum Vitae](./curriculum-vitae/en/README.md) My technical skills, work experience, certifications, etc.
+- 🇬🇧 [Products](./products/en/README.md) My products, Open source projects I contributed to, etc.
+- 🇬🇧 [Presentations](./presentations/en/README.md) My talks, presentations, etc.
+- 🇬🇧 [Series](./series/en/README.md) My article series, playlists, micro-blogging stuff, etc.
+- 🇬🇧 [Updates](./updates/en/README.md) Updates, announcements, etc.
+- 🇹🇷 [Yazı Dizileri](./series/tr/README.md) Yazı dizilerim, çalma listeleri, mikro-blogging şeysi, vb.
+- 🇹🇷 [Güncellemeler](./updates/tr/README.md) Güncellemeler, duyurular, vb.
 
 
 <br />
