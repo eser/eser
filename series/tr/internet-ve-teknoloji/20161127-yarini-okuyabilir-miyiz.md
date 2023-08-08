@@ -19,7 +19,7 @@ Arz ve Talep kavramlarını mutlaka bir yerlerden duymuşsunuzdur diye düşün�
 **Talebin oluşumu**  
 Bahsettiğim firmalar elbette Microsoft, Apple, Google, IBM, Amazon ve Facebook gibi devler. Bu firmalar konferanslarında etkileyici sunumlarla bizim beklentilerimizi şekillendirecek, biz de mental olarak hazırlandığımız bu kavramları tıpkı akıllı telefonlar, tabletler gibi hayatımıza kabullenmeye başlayacağız.
 
-Neden mi “bizim hazırlığımız” önemli? Microsoft’un 2000'lerin başında Tablet PC denemesini hatırlayalım. Talep oluşmadan yapılan bir “kaza” arzıydı bana göre. Tablet PC’den yaklaşık 10 yıl sonra daha estetik ve kullanılabilir bir ürünle iPad başarıya ulaştı. Çünkü akıllı telefonlar, ipod, iphone derken bir zincirin devam halkası oldu iPad. Kullanıcıları artık “dokunmatik ekranlı, kolay taşınabilir, pc kadar güçlü olmayan ama iş için kullanılabilecek kadar akıllı cihaz” teknolojisini hayatına almaya hazırlanmıştı.
+Neden mi “bizim hazırlığımız” önemli? Microsoft’un 2000’lerin başında Tablet PC denemesini hatırlayalım. Talep oluşmadan yapılan bir “kaza” arzıydı bana göre. Tablet PC’den yaklaşık 10 yıl sonra daha estetik ve kullanılabilir bir ürünle iPad başarıya ulaştı. Çünkü akıllı telefonlar, ipod, iphone derken bir zincirin devam halkası oldu iPad. Kullanıcıları artık “dokunmatik ekranlı, kolay taşınabilir, pc kadar güçlü olmayan ama iş için kullanılabilecek kadar akıllı cihaz” teknolojisini hayatına almaya hazırlanmıştı.
 
 #### Sentez Ürün
 
@@ -41,12 +41,12 @@ Ben veri olarak devler tarafından satın alınan firmalar ve onların aktif ça
 
 **Akıllı Asistanlar**
 
-*   IBM DeepBlue’dan sonra 2005'de geliştirmeye başladığı Watson’u yapay zeka çalışmalarının ortasına koyuyor.
-*   Cortana 2009'da Microsoft tarafından geliştirilmeye başlandı. Windows Mobile, Windows 10, Xbox One ve Android platformlarında varlığını sürdürüyor.
-*   Siri Apple tarafından 28 Nisan 2010'da satın alındı. Önce iPhone 4S, ardından Sierra güncellemesi ile macOS’un bir özelliği oldu.
-*   Google Now/Assistant 2011'de Google Voice Search’in geliştirilmiş sürümü olarak ortaya atıldı, 2012'de Android Jelly Bean’in demonstrasyonunda kullanıldığından beri Android üzerinde çalışmakta.
-*   Google’ın çatı şirketi (eski Google Inc.) Alphabet 2014'de DeepMind isimli yapay zeka firmasını satın aldı.
-*   Amazon ise Kasım 2014'de Amazon Alexa’yı duyurup Echo ile birlikte kullanıma sundu.
+*   IBM DeepBlue’dan sonra 2005’de geliştirmeye başladığı Watson’u yapay zeka çalışmalarının ortasına koyuyor.
+*   Cortana 2009’da Microsoft tarafından geliştirilmeye başlandı. Windows Mobile, Windows 10, Xbox One ve Android platformlarında varlığını sürdürüyor.
+*   Siri Apple tarafından 28 Nisan 2010’da satın alındı. Önce iPhone 4S, ardından Sierra güncellemesi ile macOS’un bir özelliği oldu.
+*   Google Now/Assistant 2011’de Google Voice Search’in geliştirilmiş sürümü olarak ortaya atıldı, 2012’de Android Jelly Bean’in demonstrasyonunda kullanıldığından beri Android üzerinde çalışmakta.
+*   Google’ın çatı şirketi (eski Google Inc.) Alphabet 2014’de DeepMind isimli yapay zeka firmasını satın aldı.
+*   Amazon ise Kasım 2014’de Amazon Alexa’yı duyurup Echo ile birlikte kullanıma sundu.
 *   Elon Musk Open AI projesi ile ev işlerine yardımcı olacak akıllı robotlar üretmeyi hedeflediğini açıkladı.
 *   IBM Watson başta olmak üzere yapay zekalara özel bir işlemci üretimi üzerinde çalıştığını duyurdu.
 *   IBM Watson’un sağlık alanındaki çalışmalarını güçlendirmek için Merge Healthcare’i satın aldı.
@@ -103,4 +103,4 @@ Elimizdeki kesin bilgi ise bugün bir şeylerin başladığı. Büyük firmalar 
 
 Peki bu gelecekte biz bir pozisyon alabiliyor muyuz? Bu da farklı bir yazının konusu olsun.
 
-Ufak bir destekleyici güncelleme olarak [Prof. Dr. Oğuz Manas ile 1991'de gerçekleştirilen “2000’li yıllarda oturduğumuz yerden alışveriş yapacağız!” başlıklı söyleşi](https://www.egirisim.com/prof-dr-oguz-manas-2000li-yillarda-oturdugumuz-yerden-alisveris-yapacagiz/)yi buraya eklemenin uygun olacağını düşündüm.
+Ufak bir destekleyici güncelleme olarak [Prof. Dr. Oğuz Manas ile 1991’de gerçekleştirilen “2000’li yıllarda oturduğumuz yerden alışveriş yapacağız!” başlıklı söyleşi](https://www.egirisim.com/prof-dr-oguz-manas-2000li-yillarda-oturdugumuz-yerden-alisveris-yapacagiz/)yi buraya eklemenin uygun olacağını düşündüm.

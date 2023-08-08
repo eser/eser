@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Eser.
+# 👋 Hello, I’m Eser.
 
 <a href="https://www.twitter.com/eser" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/eser?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"

@@ -23,7 +23,7 @@ Aynı başlıktaki konularla ilgili farklı konuşmacılar oluşmaya başladığ
 
 Yine aynı kitleye seslenen aynı şehirdeki organizasyonlara aynı konu ile gitmemeye çalışıyorum. Bir örnek olarak Frontend İstanbul’da TypeScript anlattıysam ve jstanbul’da TypeScript’i tekrar anlatma şansım olursa; ilk olarak bakacağım şey katılımcıların aynı olup olmadığı olacaktır. Aynı kitleye birden fazla kez aynı şeyi aktarmanın bir yararı bulunmuyor. Bu nedenle üniversitelerin lokal öğrenci etkinliklerine daha fazla açığım bu dönemde.  
   
-Dolayısıyla insanlarla tanışmak, etkinliklerin heyecanlarını paylaşmak ve sürdürülebilirliklerini desteklemek için 2019'da da konuşma davetlerine yanıt vereceğim ancak bunun için YouTube’de etkin olacağım zamandan çalmak istemiyorum.
+Dolayısıyla insanlarla tanışmak, etkinliklerin heyecanlarını paylaşmak ve sürdürülebilirliklerini desteklemek için 2019’da da konuşma davetlerine yanıt vereceğim ancak bunun için YouTube’de etkin olacağım zamandan çalmak istemiyorum.
 
 **Hareket Planı:** Belirlediğim sınırlamalar dahilinde etkinliklerde konuşmalara devam edebilirim.
 

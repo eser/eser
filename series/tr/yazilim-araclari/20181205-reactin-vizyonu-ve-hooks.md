@@ -10,13 +10,13 @@ Eleştirim basitçe aşağıdaki tweet’de yer alıyor. Gelen yanıtlarla bir t
 
 Bandı biraz geri saralım ve React’ın neden benim için fenomen bir view çözümü olduğunu açıklamaya çalışayım.
 
-jQuery gibi çözümler hem plugin host, hem polyfill, hem animasyon kütüphanesi, hem DOM seçicisi ve manipulatörü, hem de bir web sayfasındaki akışı kontrol etmeye çalışıyordu. Bu yaklaşıma alternatif olarak React, kapsam olarak yalnızca kendisine verilen doküman yapısını (örneğin JSX) render etmekle sınırlı tuttu. Bunu yaparken de bilgisayar biliminin neredeyse 1960'ların sonunda konuştuğu bileşen-temelli UI yaklaşımından destek alıyordu. UNIX felsefesinin bir araçtan beklentisinin özeti gibiydi, “bir iş yap, onu doğru yap”.
+jQuery gibi çözümler hem plugin host, hem polyfill, hem animasyon kütüphanesi, hem DOM seçicisi ve manipulatörü, hem de bir web sayfasındaki akışı kontrol etmeye çalışıyordu. Bu yaklaşıma alternatif olarak React, kapsam olarak yalnızca kendisine verilen doküman yapısını (örneğin JSX) render etmekle sınırlı tuttu. Bunu yaparken de bilgisayar biliminin neredeyse 1960’ların sonunda konuştuğu bileşen-temelli UI yaklaşımından destek alıyordu. UNIX felsefesinin bir araçtan beklentisinin özeti gibiydi, “bir iş yap, onu doğru yap”.
 
 Çevremde daha fazla hayranı olsa da Vue için aynı şeyi söyleyemeyeceğim örneğin. Çünkü Vue popülerite kaygısını belli edebiliyor. İlk sürümü angularjs yolundan giderken, ikinci sürümü React, bir sonraki sürümü ise React Hooks’a doğru evrilip amacını geliştiricinin konforunu arttırmak olarak belirleyebiliyor. Bu bir tercihti ve React konfor yerine mühendislik doğrularını seçiyordu. En azından ben öyle biliyordum.
 
 React’ın yetersiz kaldığı yerde React-Router, Redux gibi diğer kütüphaneler devreye giriyordu. Vue’nun isviçre çakısı olmaya çalıştığı bir gerçeklikte, tornavida, çekiç ve çakı’nın montajda uygun yerlerde kullanılmasına benzetebilirdik bu durumu.
 
-Ancak, kullandığım ürünleri changelog seviyesinde takip eden biri olarak, React 16'dan itibaren projenin yolunu değiştirdiğine tanık olduğumu düşünüyorum.
+Ancak, kullandığım ürünleri changelog seviyesinde takip eden biri olarak, React 16’dan itibaren projenin yolunu değiştirdiğine tanık olduğumu düşünüyorum.
 
 Fiber güncellemesi (React’ın bir süre önce farklı bir rendering yaklaşıma geçmesi) ile yalnızca Lifecycle’lar değişse, bu yeni rendering için bir takım bağlantılar dışarıda kalsa bundan daha doğal bir şey olamazdı.
 

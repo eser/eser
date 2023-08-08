@@ -28,7 +28,7 @@ Bu bölüm yazı dizilerini, çalma listelerini, mikro-blogging girdilerini, vb
 
 ### [Üretkenlik](./uretkenlik/README.md)
 - [Öğrenme Yol Haritası (Bilhassa Junior ve Yazılımcılar İçin)](./uretkenlik/20230724-ogrenme-yol-haritasi.md)
-- [Öğrenmek için "o anı" beklemek](./uretkenlik/20221016-ogrenmek-icin-o-ani-beklemek.md)
+- [Öğrenmek için “o anı” beklemek](./uretkenlik/20221016-ogrenmek-icin-o-ani-beklemek.md)
 - [Gönüllü olduğum işlere dair planlama ve değerlendirme](./uretkenlik/20190205-gonullu-oldugum-islere-dair-planlama-ve-degerlendirme.md)
 - [Üretmek ve Gönüllülük](./uretkenlik/20170226-uretmek-ve-gonulluluk.md)
 - [Uzaktan Çalışma Deneyimim — Kişisel Organizasyon (2/2)](./uretkenlik/20161012-uzaktan-calisma-02.md)

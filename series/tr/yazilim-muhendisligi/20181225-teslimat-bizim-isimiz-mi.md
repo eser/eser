@@ -6,7 +6,7 @@ Karmaşıklıktan uzaklaştırılan ama yönetilmeye devam edilebilen her iş za
 
 [Twitter](https://twitter.com/eser)’da, herhangi bir [konuşma](../../../presentations/tr/README.md)da denk geldiyseniz genellikle Serverless, Cloud ve DevOps çözümleri konusunda az da olsa evangelist yaklaşımımı fark etmişsinizdir. Bu konuların beni heyecanlandırmasının nedeni, hepsinin temelinde işi gerçekleyenler için karmaşık olan problemleri onlardan uzaklaştırıp, daha soyut bir üst katmanda çözümler üretmelerine imkan veriyor olmaları. Bugün tam da bu kavramların kesişimiyle ilgili bir şeyler aktarmak istiyorum. Bir yazılımın teslimat süreci, kulağımıza daha aşina gelecek ifadelerle belirtmek gerekirse “derleme işleminden başlayarak canlıya çıkana kadar gelişen olaylar”.
 
-2006'da çalıştığım devBiz’e girerken şirket ortaklarından ve benim için değerli isimlerden biri olan Hakan Eskici bana Mike Gunderloy’un “Coder to Developer: Tools and Strategies for Delivering Your Software” kitabını vermişti. İlk kez yazılım için entegrasyon (integration), teslimat (delivery) ve yükleme (deployment) tanımları ile orada karşılaşmıştım.
+2006’da çalıştığım devBiz’e girerken şirket ortaklarından ve benim için değerli isimlerden biri olan Hakan Eskici bana Mike Gunderloy’un “Coder to Developer: Tools and Strategies for Delivering Your Software” kitabını vermişti. İlk kez yazılım için entegrasyon (integration), teslimat (delivery) ve yükleme (deployment) tanımları ile orada karşılaşmıştım.
 
 Mike Gunderloy — Coder To Developer
 

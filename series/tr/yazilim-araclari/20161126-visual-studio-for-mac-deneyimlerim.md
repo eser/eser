@@ -4,7 +4,7 @@ Her ne kadar tooling konusunda yavaş kaldıklarını düşünsem de, .NET Core
 
 Elimizdekiler:
 
-*   .NET Standard 2.0'ın frameworkler arasında uyumu arttırması,
+*   .NET Standard 2.0’ın frameworkler arasında uyumu arttırması,
 *   Visual Studio for Mac’in duyurulması,
 *   Yakında çıkacak Visual Studio 2017,
 *   Ve 1.0.1 sürümünde olan .NET Core
@@ -53,4 +53,4 @@ export PATH=$PATH:/usr/local/share/dotnet
 
 Sonuçta karşılaştığım bu hatalar beni ürünün henüz test senaryolarının pek olgunlaşmadığı yönünde düşündürüyor.
 
-Yine de bir kez daha .NET Core’dan oldukça umutlu olduğumu belirtmek isterim. .NET sevdiğim bir platform, Visual Studio 2017'in çıkışı ve tooling’in artmasıyla artık benim de üzerine yatırım yapabileceğim bir olgunluğa sahip olacak. Sabırsızlıkla bekliyoruz :)
+Yine de bir kez daha .NET Core’dan oldukça umutlu olduğumu belirtmek isterim. .NET sevdiğim bir platform, Visual Studio 2017’in çıkışı ve tooling’in artmasıyla artık benim de üzerine yatırım yapabileceğim bir olgunluğa sahip olacak. Sabırsızlıkla bekliyoruz :)

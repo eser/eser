@@ -9,7 +9,7 @@ May 2023 - Present
 
 Oct 2022 - May 2023
 
-Datapad is a tech startup is to enable a data-driven culture for teams of all sizes. They're on the road to build the world’s easiest data solution. Raised $1m in pre-seed, backed by 500 Startups.
+Datapad is a tech startup is to enable a data-driven culture for teams of all sizes. They’re on the road to build the world’s easiest data solution. Raised $1m in pre-seed, backed by 500 Startups.
 
 
 ### Engineering Director, Founding DevRel, Getir
@@ -20,7 +20,7 @@ Getir is a decacorn tech startup that delivers ultra-fast groceries.
 
 Achievements:
 - The first DevRel of the company, being the founder of the discipline
-- Led the "Agile Office", organizational agility professionals team of agile coaches and scrum masters
+- Led the “Agile Office”, organizational agility professionals team of agile coaches and scrum masters
 - Completed 3 bootcamps, along with 14 new recruitments
 - Attended some external events
 - Celebrated May the 4th: Star Wars Day
@@ -102,11 +102,11 @@ May 2016 - Sep 2018
 KoçSistem is the information technology company of Koç Holding Group of Companies, which is on the Fortune 500 list. They offers a wide range of products and services in areas such as Internet of Things, Big Data & Analytics, Security, Corporate Cloud, Corporate Mobility, Business Solutions, Digital Workforce and RPA.
 
 Achievements:
-- Kicked off the company's main application framework and was the first member of the company's DevOps and Software Architecture teams
-- Developed a React project for initializing codebases that use the company's main application framework with selected components on a web wizard form
+- Kicked off the company’s main application framework and was the first member of the company’s DevOps and Software Architecture teams
+- Developed a React project for initializing codebases that use the company’s main application framework with selected components on a web wizard form
 - Helped other teams to embrace Agile and DevOps practices
-- Took parts of analysis and decisions of company's product choices (such as CMSes, orchestration tools, etc)
-- Delivered the company's first serverless project that runs on AWS Lambda
+- Took parts of analysis and decisions of company’s product choices (such as CMSes, orchestration tools, etc)
+- Delivered the company’s first serverless project that runs on AWS Lambda
 - Delivered and maintained 3 enterprise solutions to customers
 - Attended recruitment meetings as a technical interviewer
 
@@ -181,7 +181,7 @@ Jan 2001 - Aug 2002
 
 ## Education
 
-### Master's Degree - Information and Communication Technologies in Education
+### Master’s Degree - Information and Communication Technologies in Education
 
 2013 - 2019
 
@@ -195,7 +195,7 @@ Eastern Mediterranean University, CGPA: 3.44 / 4.00
 Eastern Mediterranean University, CGPA: 3.12 / 4.00
 
 
-### Associate's Degree - Computer Programming
+### Associate’s Degree - Computer Programming
 
 2002 - 2004
 

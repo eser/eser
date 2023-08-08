@@ -36,9 +36,9 @@ Fakat [Why did Koding switch from Node.js to Go?](https://www.quora.com/Why-did-
     
 *   Node.js yakın zamanda release cycle’ını LTS (long term support) sürümler üretecek şekilde güncellemiş görünüyor.
     
-*   Google Chrome başta olmak üzere browserlardan text editorlere kadar bir çok yazılımda kullanılan V8'in runtime hatalarının zaman içerisinde düzelmesi siz “kusursuz başka bir platform” arayışı başlatıp bitirene kadar geçen süreden daha kısa olacaktır.
+*   Google Chrome başta olmak üzere browserlardan text editorlere kadar bir çok yazılımda kullanılan V8’in runtime hatalarının zaman içerisinde düzelmesi siz “kusursuz başka bir platform” arayışı başlatıp bitirene kadar geçen süreden daha kısa olacaktır.
     
-*   Başlıca şikayetler arasında duyduğum “memory leak” başınıza gelse dahi bunu tespit ettiğiniz anda workaroundlar sayesinde V8'e gelecek patch’den önce telafi edilebilir durumda.
+*   Başlıca şikayetler arasında duyduğum “memory leak” başınıza gelse dahi bunu tespit ettiğiniz anda workaroundlar sayesinde V8’e gelecek patch’den önce telafi edilebilir durumda.
     
 
 **İddia 3: Bizim için hayal kırıklığı oldu**  
@@ -55,7 +55,7 @@ Bu nedenle benim için bir platformun bir projede “bekleneni en iyi veren terc
 **İddia 4: Geleceği muallak**  
 Danışmanlık verdiğim kurumlarla teknoloji seçimi yaparken her zaman göz önünde bulundurduğum önemli bir parametre var. O da mevcut teknoloji üzerine farklı kurumlar tarafından yatırılan “sermaye”.
 
-Şu anda yazılım alanında Microsoft gibi devlerin planlarını JavaScript’e yönlendirdiğini ve V8'e alternatif olacak bir JavaScript yorumlayıcı üzerinde çalıştıklarını biliyoruz. Yine Microsoft giderek open sourcelaşma yolunda .NET’den sonra en güvendiği platformu Node.js olarak belirlemiş olmalı ki gerek Node.js’e verdiği IDE desteği, gerekse .NET’in çoklu platformda çalışacak yeni ekosistemi .NET Core için yardımcı ürünlerin çoğunu Node.js platformunun üyelerinden seçiyor.
+Şu anda yazılım alanında Microsoft gibi devlerin planlarını JavaScript’e yönlendirdiğini ve V8’e alternatif olacak bir JavaScript yorumlayıcı üzerinde çalıştıklarını biliyoruz. Yine Microsoft giderek open sourcelaşma yolunda .NET’den sonra en güvendiği platformu Node.js olarak belirlemiş olmalı ki gerek Node.js’e verdiği IDE desteği, gerekse .NET’in çoklu platformda çalışacak yeni ekosistemi .NET Core için yardımcı ürünlerin çoğunu Node.js platformunun üyelerinden seçiyor.
 
 Ek olarak .NET’e senelerini vermiş bir profesyonel olarak Microsoft’un her zaman “yalnızca müşterisi” olduğumu düşündüm. Fakat Microsoft’dan bir yetkili ilk kez benim yazılım geliştirici görüşümü almak için beni bir Skype görüşmesine davet ettiğinde konu “Node.js hakkındaki görüşlerim”di.
 
@@ -122,7 +122,7 @@ Yarın öbür gün Thread’ler kolaylıkla JavaScript’e getirilebilir ve plat
 **İddia 10: Backend için nonblocking IO kullanışlı değil**  
 [Değil mi?](http://stackoverflow.com/questions/10570246/what-is-non-blocking-or-asynchronous-i-o-in-node-js) Ben aksine, özellikle yukarıda da bahsetmiş olduğum mesajlaşma — kuyruklama — işleme — iletme işlemleri için tek bir CPU core’unun ve RAM veriminin maksimize edilerek kullanılmasının oldukça önemli olduğunu düşünmekteyim. Hardware’da pipelining’den tutalım birden fazla core içeren işlemciler kullanmamıza kadar elimizdeki her teknoloji işlemlerin nonblocking gerçekleşmesini hedef almışken biz işin software kısmında neden nonblocking IO’yu es geçiyoruz ki?
 
-.NET 1.0'dan beri içinde Threading bulunmasına rağmen, 4.0 sürümü ile gelen “Task Parallel Library”nin pazarlamasını paralelizm üzerinden yapmıştı.
+.NET 1.0’dan beri içinde Threading bulunmasına rağmen, 4.0 sürümü ile gelen “Task Parallel Library”nin pazarlamasını paralelizm üzerinden yapmıştı.
 
 Dolayısıyla nonblocking IO’nun backend için yüksek işlem ölçeğine gidildikçe öneminin arttığını düşünmekteyim.
 
@@ -131,7 +131,7 @@ Evet, iddia doğru olmasına rağmen bunun eleştirilmesini sıkıntılı buluyo
 
 .NET’deki async/await’in JavaScript’e getirilmesini “tekerleği yeniden keşfetmek” olarak tanımlamaktan çok, başarılı bir modelin aynen uygulanması olduğunu düşünmekteyim.
 
-.NET’de 1.1'den itibaren yer alan AsyncCallback/IAsyncResult tipleri JavaScript’deki Promise’e benzer görevde bir nesne tipiydi. 2012'de .NET 4.5 ile birlikte vitrindeki yerini alan async/await’in de JavaScript tarafından benimsenmesiyle bana göre *Callback Hell* olarak tanımladığımız sorundan kurtulmuş olduk.
+.NET’de 1.1’den itibaren yer alan AsyncCallback/IAsyncResult tipleri JavaScript’deki Promise’e benzer görevde bir nesne tipiydi. 2012’de .NET 4.5 ile birlikte vitrindeki yerini alan async/await’in de JavaScript tarafından benimsenmesiyle bana göre *Callback Hell* olarak tanımladığımız sorundan kurtulmuş olduk.
 
 Ayrıca eklenmesi gereken bir not da .NET’in async/await’in kazanımından sonra kendi kütüphanesindeki metodları mümkün olduğunca async olarak yazmaya başladığıdır.
 
@@ -150,10 +150,10 @@ Yine de savunma makamı görevimi bozmaksızın API’ın her zaman değişebile
 let file = await fs.readFile(“./a.txt”); console.log(file) //=> beklediğim şey.
 ```
 
-Yine `SetTimeout` yerine bir `await delay(ms)` ile callback'den kurtulabilmemiz mümkün.
+Yine `SetTimeout` yerine bir `await delay(ms)` ile callback’den kurtulabilmemiz mümkün.
 
 ```javascript
-console.log(1); await sleep(2000); console.log(2); console.log(3); await sleep(1000); console.log(4); // buradan devam ediyoruz :) promise.resolve'a da gerek yok :)
+console.log(1); await sleep(2000); console.log(2); console.log(3); await sleep(1000); console.log(4); // buradan devam ediyoruz :) promise.resolve’a da gerek yok :)
 ```
 
 Böylece ben de async/await’e kullanım örnekleri vermiş oldum.
@@ -168,7 +168,7 @@ Fakat C/C++/PHP’de nasıl sabit bir yapıdan ve konvensiyondan bahsedemezsek J
 Bu özgürlüğün bir avantajı da 50–100 satırlık bir .NET projesini önerdiği konvensiyon nedeniyle tek bir parça haline getiremezken, aynı JavaScript kodunu Amazon Web Services’da lambda’ya atıp mikroservise dönüştürebiliyorsunuz.
 
 **İddia 14: Çok fazla transpiler karmaşası var**  
-Evet, kesinlikle! Fakat bunu JavaScript’in ancak bugünlerine özel bir durum olarak okumak gerekli. Oldukça büyük, ihtiyaca yönelik değişiklikler bir anda dile eklendi ve V8'i geliştiren ekip buna adapte olmakta sıkıntılar yaşadı. Ben önümüzdeki sene bu konuyu tekrar konuşuyor olacağımızı düşünmüyorum.
+Evet, kesinlikle! Fakat bunu JavaScript’in ancak bugünlerine özel bir durum olarak okumak gerekli. Oldukça büyük, ihtiyaca yönelik değişiklikler bir anda dile eklendi ve V8’i geliştiren ekip buna adapte olmakta sıkıntılar yaşadı. Ben önümüzdeki sene bu konuyu tekrar konuşuyor olacağımızı düşünmüyorum.
 
 **İddia 15: Statik type’lı diller daha olgun ve güçlü**  
 Gereksinimler ve bunların tespit edilmesi işimizde büyük önem sahibi. Diğer yandan yazılım ekibinin bilgi birikimi, yeteneklerini hangi dilde daha net ortaya koyabildiği gibi pratik parametreler de tercihlerimizi etkileyen faktörler.
@@ -182,9 +182,9 @@ Ben kodlamaya 90larda başlamış biri olarak;
 *   Managed platformların asla başarıya ulaşamayacağını,
     
 
-iddialarını bolca duydum. 2000'li yıllarda yukarıdaki önyargıların bir çoğunun çürüdüğünü söylemek yanlış olmaz.
+iddialarını bolca duydum. 2000’li yıllarda yukarıdaki önyargıların bir çoğunun çürüdüğünü söylemek yanlış olmaz.
 
-Ben 2010'lu yıllarda da strictly-typed yaklaşımların “pointer”lar gibi geride bırakılacağını düşünmekteyim. Tabii ki type-hinting yaşayacaktır ama runtimeların konsantrasyonu dynamic type yorumlamasına daha da yanaşacaktır.
+Ben 2010’lu yıllarda da strictly-typed yaklaşımların “pointer”lar gibi geride bırakılacağını düşünmekteyim. Tabii ki type-hinting yaşayacaktır ama runtimeların konsantrasyonu dynamic type yorumlamasına daha da yanaşacaktır.
 
 Big data işlemekten bahsedip JSON okumak için 30 satır kod, 20 explicit type casting’de bulunulduğumuzda sezgisellik de konvensiyon da geri planda kalmaya başlıyor.
 

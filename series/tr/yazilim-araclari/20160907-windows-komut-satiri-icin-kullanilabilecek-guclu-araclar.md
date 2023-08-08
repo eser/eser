@@ -1,6 +1,6 @@
 # Windows Komut Satırı için kullanılabilecek güçlü araçlar
 
-Microsoft kullanıcı deneyimlerinde 2010'a kadar grafik arabirimi kullanımını arayüzünde herhangi bir ayrıma gitmeyi tercih etmedi. Hatta bu süreç içerisinde mümkün oldukça her işlemin grafik arabirimi üzerinden gerçekleştirilebilmesi yönünde inisiyatifler aldı.
+Microsoft kullanıcı deneyimlerinde 2010’a kadar grafik arabirimi kullanımını arayüzünde herhangi bir ayrıma gitmeyi tercih etmedi. Hatta bu süreç içerisinde mümkün oldukça her işlemin grafik arabirimi üzerinden gerçekleştirilebilmesi yönünde inisiyatifler aldı.
 
 .NET Core ve Windows 10 ile birlikte bu kararlılıkta ciddi değişimler gözlemleyebiliyoruz. Örneğin Windows 10 Anniversary Update 1 ile birlikte bash’ın Windows’a gelişi, Windows içerisinde tanımlanan bir “Developer Mode” seçeneği, .NET Core’u yüklemek için dahi komut satırı araçlarının önplanda tanıtılması v.s.
 
@@ -43,7 +43,7 @@ paketlerini chocolatey üzerinden indirebilirsiniz.
 
 [https://gist.github.com/eser/e8eb6f8e7f57418a1775b2b68960a0a1](https://gist.github.com/eser/e8eb6f8e7f57418a1775b2b68960a0a1)
 
-MS-DOS’un 5.0 sürümüyle hayatımıza giren DOSKey aslında komut satırı için bir makro aracı. Halen günümüzde de Windows komut satırında yer aldığı için kendisini bash’da yer alan `alias` komutunun bir benzeri işlevle kullanıyorum. Bu sayede evde kullandığım macOS'dan işyerinde kullandığım Windows'a geçtiğim anda komut satırına `ls` yazdıktan sonra hatamı `dir` yazarak düzeltmek zorunda kalmıyor, sistemler arasındaki farkı minimize edebiliyorum.
+MS-DOS’un 5.0 sürümüyle hayatımıza giren DOSKey aslında komut satırı için bir makro aracı. Halen günümüzde de Windows komut satırında yer aldığı için kendisini bash’da yer alan `alias` komutunun bir benzeri işlevle kullanıyorum. Bu sayede evde kullandığım macOS’dan işyerinde kullandığım Windows’a geçtiğim anda komut satırına `ls` yazdıktan sonra hatamı `dir` yazarak düzeltmek zorunda kalmıyor, sistemler arasındaki farkı minimize edebiliyorum.
 
 Mevcut kullandığım makrolar aşağıdaki gibi:
 
@@ -53,7 +53,7 @@ DOSKEY ls=dir /B $* DOSKEY ll=dir $* DOSKEY clear=cls DOSKEY open=start $* DOSKE
 
 Maalesef `cmd.exe` kendi çalıştığı anda belirli başlı komutları bizim için işletmiyor (`.bashrc` veya `bash_profile` benzeri bir işlevden bahsediyorum). Bu nedenle yukarıdaki makroları açılan her komut satırı için tekrardan tanımlamam gerekiyor. Eskiden aşina olduğumuz `AUTOEXEC.BAT` çoktan tarihe karışmış durumda. Bu nedenle ben kendi kullanıcı dizinime bir `env.cmd` dosyası oluşturarak her komut satırını açtığımda elle kendisini çalıştırıyorum. Yukarıdaki linkten benim kullandığım `env.cmd`nin içerine ulaşabilirsiniz.
 
-Diğer bir değişiklik ise benim artık sıkıldığım, belki sizin de değiştirirek keyif alabileceğiniz prompt. Sizden komut isteyen `C:\Windows\system32>` yazısını değiştirmek istiyorsanız, [Scott Hanselman'ın A better PROMPT for CMD.EXE or Cool Prompt Environment Variables and a nice transparent multi-prompt yazısı](http://www.hanselman.com/blog/ABetterPROMPTForCMDEXEOrCoolPromptEnvironmentVariablesAndANiceTransparentMultiprompt.aspx)nı takip ederek gerekli değişiklikleri gerçekleştirebilirsiniz.
+Diğer bir değişiklik ise benim artık sıkıldığım, belki sizin de değiştirirek keyif alabileceğiniz prompt. Sizden komut isteyen `C:\Windows\system32>` yazısını değiştirmek istiyorsanız, [Scott Hanselman’ın A better PROMPT for CMD.EXE or Cool Prompt Environment Variables and a nice transparent multi-prompt yazısı](http://www.hanselman.com/blog/ABetterPROMPTForCMDEXEOrCoolPromptEnvironmentVariablesAndANiceTransparentMultiprompt.aspx)nı takip ederek gerekli değişiklikleri gerçekleştirebilirsiniz.
 
 Benim tercihim aşağıdaki gibi:
 

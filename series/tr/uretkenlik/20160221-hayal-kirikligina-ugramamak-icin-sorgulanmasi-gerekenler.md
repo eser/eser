@@ -2,9 +2,9 @@
 
 Lisansüstü eğitim “öğrenci olmak” pratiği olanlar için nispeten kolay, fakat hızlı bitirmek istediğinizde neredeyse her dersin ciddi ödev/araştırmaları altında boğulabileceğiniz bir süreçtir. Ben ufak bir hile yapıp (elbetteki mevzuatta yer alan bir hakkımı kullanıp) ortalamamı yükseltmek için yazılım mühendisliği ile ilgili ek bir seçiminde bulunmuştum.
 
-O derste aldığım en yararlı bilgi 90larda amerikan yazılım endüstrisinde production’a çıkan yazılım projesi oranının %60'larda olduğu ve bununla ilgili sektörün nasıl refleksler geliştirdiği üzerine olmuştur.
+O derste aldığım en yararlı bilgi 90larda amerikan yazılım endüstrisinde production’a çıkan yazılım projesi oranının %60’larda olduğu ve bununla ilgili sektörün nasıl refleksler geliştirdiği üzerine olmuştur.
 
-Bugün bir istatistik olsa eminim ülkemizde hayal kırıklığı ile sonuçlanan yazılım projesi oranı %60'dan yüksek çıkacaktır. Hem de önümüzde hali hazırda başarılı olan modeller ve sistemler var iken.
+Bugün bir istatistik olsa eminim ülkemizde hayal kırıklığı ile sonuçlanan yazılım projesi oranı %60’dan yüksek çıkacaktır. Hem de önümüzde hali hazırda başarılı olan modeller ve sistemler var iken.
 
 Hepimizin platform, yazılım ve programlama dillerinden tutun, iş arkadaşlarımıza, işverenlerimize hatta gelirimize kadar hayal kırıklıklarımız mevcut.
 

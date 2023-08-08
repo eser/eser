@@ -1,12 +1,12 @@
 # 90’larda programlama öğrenmek
 
-Ekşi Sözlük gibi mecralarda bir çok nostalji kuşağı estiren başlık bulunuyor. “90larda çocuk olmak”, “magnum’un pahalı olduğu yıllar” ve benzerleri. Ben henüz girilmemiş bir alana girip programlama özelinde kendi nostaljik deneyimimi, 90'larda programlama öğrenen çocuğun hikayesini paylaşmak istiyorum.
+Ekşi Sözlük gibi mecralarda bir çok nostalji kuşağı estiren başlık bulunuyor. “90larda çocuk olmak”, “magnum’un pahalı olduğu yıllar” ve benzerleri. Ben henüz girilmemiş bir alana girip programlama özelinde kendi nostaljik deneyimimi, 90’larda programlama öğrenen çocuğun hikayesini paylaşmak istiyorum.
 
 1993 yılında yurtdışından getirdiğim 486sx işlemcili masaüstü pc ile geçirdiğim oyun dolu bir sene ertesinde Wolfenstein ve Volfied’in başı çektiği oyun koleksiyonumdan “sıkılmıştım”.
 
-Bilgisayarımı teslim alırken “ne yapacağız şimdi” diye sorduğum “teknik servis yetkilisi abi”den öğrendiğim `cd` ve `dir` komutları ile MS-DOS 6.00'ın komut satırından 420MB'lık diskimin içerisinde dolaşıyordum. Muhasebeci teyzemin bir gün beni izlerken "bak EXE olanları çalıştırabiliyorsun" demesi ile "aydınlanmıştım".
+Bilgisayarımı teslim alırken “ne yapacağız şimdi” diye sorduğum “teknik servis yetkilisi abi”den öğrendiğim `cd` ve `dir` komutları ile MS-DOS 6.00’ın komut satırından 420MB’lık diskimin içerisinde dolaşıyordum. Muhasebeci teyzemin bir gün beni izlerken “bak EXE olanları çalıştırabiliyorsun” demesi ile “aydınlanmıştım”.
 
-`win` yazıp Windows'a girip paintbrush'da iki resim yaptıktan sonra yine sıkılıp yeni bir şeyleri kovalamış, Creative Suite'den çıkan bookworm uygulamasını açtığımda karşıma gelen "loading" ekranın beliren solucanı bilgisayar virüsü zannederek bilgisayarımı fişten çekmiştim.
+`win` yazıp Windows’a girip paintbrush’da iki resim yaptıktan sonra yine sıkılıp yeni bir şeyleri kovalamış, Creative Suite’den çıkan bookworm uygulamasını açtığımda karşıma gelen “loading” ekranın beliren solucanı bilgisayar virüsü zannederek bilgisayarımı fişten çekmiştim.
 
 “Böyle olmuyor” dedim, çocukken ansiklopedilerine aşık bir çocuk olarak aldığım bilgisayarı kullanmayı öğrenmeliydim. O eğlence kutusuna ait hevesim geçmeye başlıyordu yavaş yavaş. Harçlık biriktirmeye, anneanne eli öpüp çeşitli bilgisayar dergileri almaya başlamıştım. “Bilgisayar Pazarı”, “PC World” ve “BYTE” dergilerindeki örnek kodları bilgisayarıma geçirip, üzerinde değişiklikler yaparak önce Basic, sonra Pascal’da bir şeyler yapmak oldukça ilgimi çekti.
 

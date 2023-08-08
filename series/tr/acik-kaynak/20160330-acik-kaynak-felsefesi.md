@@ -24,7 +24,7 @@ Açık kaynak geliştirme ve kontrol gibi süreçlere “kaynak” olabilecek he
 
 ### Özgür Yazılım
 
-Her özgür yazılım aynı zamanda açık kaynaktır. Fakat özgür yazılım bundan çok daha fazlasıdır. Çünkü özgür yazılımlar sahipliği reddeden bir politik anlayışın ürünüdür. Dolayısıyla herhangi birinin veya birilerinin kontrolü altında bulunmayan özgür yazılımların üzerinde yapılan değişiklikler de mutlaka herkesin erişebileceği şekilde yayınlanmalı ve özgür yazılım olmayan başka bir programın (hatta GNU Public License v3'e göre donanımın da) işlevsel bir parçası olarak kullanılmamalıdır.
+Her özgür yazılım aynı zamanda açık kaynaktır. Fakat özgür yazılım bundan çok daha fazlasıdır. Çünkü özgür yazılımlar sahipliği reddeden bir politik anlayışın ürünüdür. Dolayısıyla herhangi birinin veya birilerinin kontrolü altında bulunmayan özgür yazılımların üzerinde yapılan değişiklikler de mutlaka herkesin erişebileceği şekilde yayınlanmalı ve özgür yazılım olmayan başka bir programın (hatta GNU Public License v3’e göre donanımın da) işlevsel bir parçası olarak kullanılmamalıdır.
 
 Özgür yazılımın olmazsa olmazları daha doğrusu “özgürlükleri” şöyle alıntılayabiliriz:
 
