@@ -23,8 +23,7 @@
 - Animality
 - Babality
 - Friendship
-- Defensive/Offensive Meters
-- Two Different Gauges (to merge into one)
+- Defensive/Offensive Meters (to merge into one gauge with stamina)
 - Tag Team
 - Fighting Styles
 - Character Variations
@@ -46,7 +45,7 @@
 
 ### Earthrealm: Special Forces
 
-- Johhny Cage
+- Johnny Cage
 - Sonya
 - Jax
 - Kenshi
