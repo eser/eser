@@ -31,15 +31,12 @@
 
 ## Karakterler
 
-### Gods
-- Lui Kang (Fire God - Not Playable)
-- Fujin
+### Earthrealm: White Lotus
 
-### Earthrealm: Shaolin Monks
-
+- Lui Kang (Time Keeper, Not Playable)
+- Fujin (Protector of Earthrealm)
 - Raiden (Human Monk)
 - Kung Lao
-- Shang Tsung (Young)
 - Kai
 - Nightwolf
 
@@ -61,11 +58,11 @@
 
 ### Earthrealm: Black Dragon
 
-- Kano
 - Kabal
 - Jarek
 - Tremor
 - Kira
+- ~~Kano~~
 - ~~Erron Black~~
 
 ### Outworld: Edenia
@@ -81,10 +78,10 @@
 
 - Kotal Kahn (Not Playable)
 - Goro (Not Playable)
-- Reptile (Syzoth)
-- Reiko (MK4)
+- Shang Tsung (Young)
+- Reptile (Human Form, Syzoth)
+- Reiko (MK4 Form, A Clone of Shao Kahn)
 - Ermac
 - Baraka
 - Sareena
 - ~~Nitara~~
-- ~~Quan Chi~~
