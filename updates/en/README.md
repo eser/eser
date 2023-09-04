@@ -4,5 +4,4 @@ This section will feature brief updates and announcements.
 
 I’m still alive
 
-
 [Go back to the homepage](../../README.md)

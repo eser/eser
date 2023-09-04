@@ -1,6 +1,5 @@
 # Üretkenlik
 
-- [Öğrenme Yol Haritası (Bilhassa Junior ve Yazılımcılar İçin)](./20230724-ogrenme-yol-haritasi.md)
 - [Öğrenmek için “o anı” beklemek](./20221016-ogrenmek-icin-o-ani-beklemek.md)
 - [Gönüllü olduğum işlere dair planlama ve değerlendirme](./20190205-gonullu-oldugum-islere-dair-planlama-ve-degerlendirme.md)
 - [Üretmek ve Gönüllülük](./20170226-uretmek-ve-gonulluluk.md)

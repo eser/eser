@@ -1,6 +1,6 @@
-This section will contain series of articles, playlists, micro-blogging entries, etc.
+This section will contain series of articles, playlists, micro-blogging entries,
+etc.
 
-*(there’s nothing here yet)*
-
+_(there’s nothing here yet)_
 
 [Go back to the homepage](../../README.md)

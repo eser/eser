@@ -4,5 +4,4 @@ Bu bölüm kısa güncellemeler ve duyurulardan oluşacak.
 
 Halen yaşıyorum
 
-
 [Ana sayfaya geri dön](../../README.md)

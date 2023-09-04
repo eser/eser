@@ -3,6 +3,7 @@
 ## Mekanikler
 
 ### Kalacak:
+
 - Combos
 - Air Combat and Combos
 - Mercy
@@ -18,6 +19,7 @@
 - Kameos
 
 ### Kaldırılacak:
+
 - Fatal Blow
 - Fatality (Brutalities are enough)
 - Animality
@@ -35,17 +37,21 @@
 
 - Lui Kang (Time Keeper, Not Playable)
 - Fujin (Protector of Earthrealm)
+- Nightwolf (Female)
+- Kenshi
+
+### Earthrealm: Shaolin Monks
+
 - Raiden (Human Monk)
+- Shujinko
 - Kung Lao
 - Kai
-- Nightwolf
 
 ### Earthrealm: Special Forces
 
 - Johnny Cage
 - Sonya
 - Jax
-- Kenshi
 
 ### Earthrealm: Lin Kuei
 
@@ -53,14 +59,15 @@
 - Scorpion (Hanzo Hasashi)
 - Smoke (Kuai Liang)
 - Cyrax (Human Form)
-- Sektor (Human Form)
-- ~~Frost~~
+- Takeda
+- Tremor
+- ~~Frost (Human Form)~~
+- ~~Sektor (Human Form)~~
 
 ### Earthrealm: Black Dragon
 
 - Kabal
 - Jarek
-- Tremor
 - Kira
 - ~~Kano~~
 - ~~Erron Black~~
@@ -72,16 +79,18 @@
 - Rain (Sorcerer)
 - Li Mei
 - Tanya
+- Reiko (MK4 Form)
 - ~~Milena~~
 
 ### Outworld: Various
 
-- Kotal Kahn (Not Playable)
-- Goro (Not Playable)
+- General Shao (Not Playable)
+- Motaro (Not Playable)
+- Goro
 - Shang Tsung (Young)
 - Reptile (Human Form, Syzoth)
-- Reiko (MK4 Form, A Clone of Shao Kahn)
 - Ermac
+- Ashrah
 - Baraka
 - Sareena
 - ~~Nitara~~
